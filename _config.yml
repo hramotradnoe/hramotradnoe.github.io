@@ -6,7 +6,7 @@ url         : http://hramotradnoe.github.io
 
 permalink   : /posts/:title
 include     :
-  - church
+  - church/index.md
   - clergy
   - contacts
   - parish
