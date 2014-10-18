@@ -4,5 +4,5 @@ url: http://hramotradnoe.github.io
 
 permalink: /posts/:title
 exclude:
-	- LICENSE
-	- README.md
+  - LICENSE
+  - README.md
