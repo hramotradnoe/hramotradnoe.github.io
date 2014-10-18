@@ -1,0 +1,8 @@
+title: Храм Святителя Николая Мирликийского (в Отрадном)
+description: Подворье Патриарха Московского и Всея Руси
+url: http://hramotradnoe.github.io
+
+permalink: /posts/:title
+exclude:
+	- LICENSE
+	- README.md
