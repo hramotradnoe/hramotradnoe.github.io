@@ -45,10 +45,10 @@ title  : Воскресная школа
 * {{ student.name }}
 {% endfor %}
 
-{% if site.categories.parish.sunday_school.size > 0 %}
+{% if site.category.['school'].size > 0 %}
 Новости
 -------
-{% for post in site.categories.parish.sunday_school %}
+{% for post in site.category['school'] %}
 * ({{ post.title }})[{{ site.url }}/{{ post.url }}]
   =================================================
   {{ post.content | truncatewords:40 }}
