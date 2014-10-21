@@ -8,25 +8,34 @@ title  : Воскресная школа
 {% assign posts = site.categories['school'] %}
 {% include news.html %}
 
-<h1>Младшая группа (5-7 лет)</h1>
+{% for class in site.data.school.classes %}
+  {% capture lessons %} {{ class.lessons }} {% endcapture %}
+  {% capture students %} {{ class.students }} {% endcapture %}
+  {% if lessons.size > 0 or students > 0 %}
+  
+  <h1>{{ class.title }}</h1>
+  {% if lessons.size > 0 %}
+  <h2>Расписание</h2>
+  <table>
+  {% for lesson in lessons %}
+    <tr>
+      <td>{{lesson.from}}</td><td>{{lesson.to}}</td><td>{{lesson.title}}</td>
+    </tr>
+  {% endfor %}
+  </table>
+  {% endif %}
 
-<h2>Расписание</h2>
-{% assign lessons = site.data.school.junior.schedule %}
-{% include lessons.html %}
-
-<h2>Список учащихся</h2>
-{% assign students = site.data.school.junior.students | sort: 'name' %} 
-{% include students.html %}
-
-<h1>Средняя группа</h1>
-
-<h2>Расписание</h2>
-{% assign lessons = site.data.school.middle.schedule %} 
-{% include lessons.html %}
-
-<h2>Список учащихся</h2>
-{% assign students = site.data.school.middle.students | sort: 'name' %} 
-{% include students.html %}
+  {% if students.size > 0 %}
+  <h2>Список учащихся</h2>
+  <ul> 
+  {% for student in students %}
+    <li>{{ student.name }}</li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+  
+  {% endif %}
+{% endfor %}
 
 <h1>О школе</h1>
 <p>

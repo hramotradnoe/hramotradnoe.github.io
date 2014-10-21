@@ -1,0 +1,6 @@
+- title     : Младшая группа (5-7 лет)
+  lessons   : site.data.school.junior.lessons
+  students  : site.data.school.junior.students
+- title     : Средняя группа
+  lessons   : site.data.school.middle.lessons
+  students  : site.data.school.middle.students
