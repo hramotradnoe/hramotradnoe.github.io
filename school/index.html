@@ -9,6 +9,7 @@ title  : Воскресная школа
 {% include news.html %}
 
 {% for class in site.data.school.classes %}
+  {{ class.lessons }} {{ class.students }}
   {% capture lessons %} {{ class.lessons }} {% endcapture %}
   {% capture students %} {{ class.students }} {% endcapture %}
   {{ lessons }}
