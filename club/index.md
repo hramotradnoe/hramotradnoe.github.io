@@ -2,10 +2,10 @@
 layout : default
 title  : Молодежный клуб
 ---
-{% if site.data.parish.youth_club.ads.size > 0 %}
+{% if site.data.club.ads.size > 0 %}
 Объявления
 ----------
-{% for ad in site.data.parish.youth_club.ads %} 
+{% for ad in site.data.club.ads %} 
 * {{ad.title}}
   ============
   {{ad.description | markdownify }}

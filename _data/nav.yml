@@ -1,0 +1,16 @@
+- title : Новости
+  ref   : /
+- title : Расписание
+  ref   : /schedule
+- title : Храм
+  ref   : /church
+- title : Духовенство
+  ref   : /clergy
+- title : Воскресная школа
+  ref   : /school
+- title : Молодежный клуб
+  ref   : /club
+- title : Социальная служба
+  ref   : /service
+- title : Контакты
+  ref   : /contacts

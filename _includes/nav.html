@@ -1,9 +1,4 @@
-<a href="/">Новости</a>
-<a href="/schedule">Расписание</a>
-<a href="/church">Храм</a>
-<a href="/clergy">Духовенство</a>
-<a href="/parish/sunday_school">Воскресная школа</a>
-<a href="/parish/youth_club">Молодежный клуб</a>
-<a href="/parish/social_service">Социальная служба</a>
-<a href="/contacts">Контакты</a>
+{% for item in site.data.nav %}
+<a href="{{item.ref}}">{{item.title}}</a>
+{% endfor %}
 <h1>{{ page.title }}</h1>

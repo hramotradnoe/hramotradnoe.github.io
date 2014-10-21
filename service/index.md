@@ -2,10 +2,10 @@
 layout : default
 title  : Социальная служба
 ---
-{% if site.data.parish.social_service.ads.size > 0 %}
+{% if site.data.service.ads.size > 0 %}
 Объявления
 ----------
-{% for ad in site.data.parish.youth_club.ads %} 
+{% for ad in site.data.service.ads %} 
 * {{ad.title}}
   ============
   {{ad.description | markdownify }}
@@ -19,6 +19,7 @@ title  : Социальная служба
 * ({{ post.title }})[{{ site.url }}/{{ post.url }}]
   =================================================
   {{ post.content | truncatewords:40 }}
+  
   
   (Далее)[{{ site.url }}/{{ post.url }}]
 {% endfor %}

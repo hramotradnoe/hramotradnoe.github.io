@@ -1,0 +1,45 @@
+---
+layout: default
+---
+{% if site.data.school.ads.size > 0 %}
+<h1>Объявления</h1>
+<ul>
+{% for ad in site.data.school.ads %}
+{% include ads.html %}
+{% endfor %}
+</ul>
+{% endif %}
+
+{% assign posts = site.categories['school'] %}
+{% if posts.size > 0 %}
+<h2>Новости</h2>
+{% include news.html %}
+{% endif %}
+
+<h1>Младшая группа (5-7 лет)</h1>
+
+<h2>Расписание</h2>
+{% assign lessons = site.data.school.junior.schedule %}
+{% include lessons.html %}
+
+<h2>Список учащихся</h2>
+{% assign students = site.data.school.junior.students | sort: 'name' %} 
+{% include students.html %}
+
+<h1>Средняя группа</h1>
+
+<h2>Расписание</h2>
+{% assign lessons = site.data.school.middle.schedule %} 
+{% include lessons.html %}
+
+<h2>Список учащихся</h2>
+{% assign students = site.data.school.middle.students | sort: 'name' %} 
+{% include students.html %}
+
+<h1>О школе</h1>
+<p>
+Наша детская воскресная школа имеет своей главной целью раскрыть перед учащимися существо православной веры таким образом, чтобы она воспринималась ими не как совокупность требований и запретов, а как система духовных ценностей, наполняющих жизнь смыслом и содержанием. Именно поэтому занятия в воскресной школе проводятся в форме беседы, или диалога. Возможность такого диалога определяется взаимным стремлением его участников к установлению истины, единством целей, способностью выслушать точку зрения собеседника, как бы она ни отличалась от своей собственной.
+</p>
+<p>
+Занятия в нашей школе проводятся каждое воскресенье.
+</p>
