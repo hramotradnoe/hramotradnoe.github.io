@@ -1,6 +1,52 @@
 - title     : Младшая группа (5-7 лет)
-  lessons   : site.data.school.junior.lessons
-  students  : site.data.school.junior.students
+  lessons   :
+    - title : Основы православия
+      from  : '12:00'
+      to    : '12:30'
+    - title : Церковное пение
+      from  : '12:30'
+      to    : '13:00'
+  students  :
+    - name  : Антохина Анастасия
+    - name  : Бодров Никита
+    - name  : Валитова Акилина
+    - name  : Воронежцев Виктор
+    - name  : Луповнин Даниил
+    - name  : Михайлова Ксения
+    - name  : Назаров Николай
+    - name  : Овчинникова Юлия
+    - name  : Орлов Алексей
+    - name  : Пономарева Евгения
+    - name  : Сердюк Дарья
+    - name  : Филиппова Анастасия
+    - name  : Чмыхалев Валентин
 - title     : Средняя группа
-  lessons   : site.data.school.middle.lessons
-  students  : site.data.school.middle.students
+  lessons   :
+    - title : Церковное пение/Церковно-славянский язык
+      from  : '13:00'
+      to    : '13:30'
+    - title : Закон Божий
+      from  : '13:30'
+      to    : '14:00'
+    - title : Жития святых
+      from  : '14:00'
+      to    : '14.30'
+  students  :
+    - name  : Батуров Максим
+    - name  : Воевода Анастасия
+    - name  : Вольнов Иван
+    - name  : Жарикова Елизавета
+    - name  : Ильин Ярослав
+    - name  : Каджаева Елена
+    - name  : Королев Павел
+    - name  : Кузьмина Екатерина
+    - name  : Малыгин Михаил
+    - name  : Маслов Андрей
+    - name  : Михалев Сергей
+    - name  : Ненёкина Ирина
+    - name  : Никитенко Софья
+    - name  : Панькова Ольга
+    - name  : Рожкова Мария
+    - name  : Филькин Григорий
+    - name  : Филькин Иоанн
+ 

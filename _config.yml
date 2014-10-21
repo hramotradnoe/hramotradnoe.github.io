@@ -4,7 +4,7 @@ author      : Во Славу Божию
 url         : http://hramotradnoe.github.io
 # url         : http://localhost
 
-permalink   : /posts/:categories/:year/:title/
+permalink   : /posts/:categories/:year/:month/:title/
 exclude     :
   - LICENSE
   - README.md

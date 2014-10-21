@@ -9,14 +9,11 @@ title  : Воскресная школа
 {% include news.html %}
 
 {% for class in site.data.school.classes %}
-  {{ class.lessons }} {{ class.students }}
-  {% capture lessons %} {{ class.lessons }} {% endcapture %}
-  {% capture students %} {{ class.students }} {% endcapture %}
-  {{ lessons }}
-  {{ students }}
-  {% if lessons.size > 0 or students > 0 %}
-  
+  {% assign lessons = class.lessons %}
+  {% assign students = class.students %}
+  {% if lessons.size > 0 or students > 0 %}  
   <h1>{{ class.title }}</h1>
+  
   {% if lessons.size > 0 %}
   <h2>Расписание</h2>
   <table>
