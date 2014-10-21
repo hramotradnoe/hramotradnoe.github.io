@@ -11,6 +11,8 @@ title  : Воскресная школа
 {% for class in site.data.school.classes %}
   {% capture lessons %} {{ class.lessons }} {% endcapture %}
   {% capture students %} {{ class.students }} {% endcapture %}
+  {{ lessons }}
+  {{ students }}
   {% if lessons.size > 0 or students > 0 %}
   
   <h1>{{ class.title }}</h1>
