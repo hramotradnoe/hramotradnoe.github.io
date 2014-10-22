@@ -2,9 +2,7 @@
 layout : default
 title  : Новости
 ---
-{% assign year = site.time | date: '%Y' %}
-{{year}}
-{% assign posts = site.posts | where:"date",{{year}} %}
+{% assign posts = site.posts limit:10 %}
 {% include news.html %}
 
 <p><a href="/archive">Архив</a></p>
