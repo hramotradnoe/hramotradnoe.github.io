@@ -1,8 +1,6 @@
 <li>
-  <h2>{{ post.title }} {{post.excerpt.size}} {{post.content.size}}</h2>
+  <h2>{{ post.title }}</h2>
     {{ post.excerpt }}
-    {% if post.excerpt.size != post.content.size %}
     [&nbsp;<a href="{{site.url}}{{post.url}}">Далее</a>&nbsp;]
-    {% endif %}
   <p>{{post.date | date:"%d-%m-%Y"}}</p>
 </li>
