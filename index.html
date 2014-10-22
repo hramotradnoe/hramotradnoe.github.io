@@ -2,7 +2,9 @@
 layout : default
 title  : Новости
 ---
-{% assign posts = site.posts limit:10 %}
+{% capture posts }}
+{{site.posts limit:10 %}}
+{% endcapture %}
 {% include news.html %}
 
 <p><a href="/archive">Архив</a></p>
