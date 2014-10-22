@@ -2,14 +2,6 @@
 <h2>Новости</h2>
 <ul>
 {% for post in posts %}
-  <li>
-    <h2>{{ post.title }}</h2>
-    <p>
-      {{ post.content | truncatewords:40 }}
-      [&nbsp;<a href="{{site.url}}{{post.url}}">Далее</a>&nbsp;]
-    </p>
-    <p>{{post.date | date:"%d-%m-%Y"}}</p>
-  </li>
-{% endfor %}
+{% include newsitem.html %}
 </ul>
 {% endif %}
