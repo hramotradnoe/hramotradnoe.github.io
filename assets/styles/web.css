@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
   background: #7B6F5A;
 }
@@ -23,7 +27,7 @@ header {
 
 header img { align: middle; vertical-align: middle; }
 
-header nav {
+nav {
   text-align: center;
   /*clear: both;*/
   background: #B7AA90;
@@ -31,7 +35,7 @@ header nav {
   border-bottom-right-radius: 8px;
 }
 
-header nav a, nav a:visited {
+nav a, nav a:visited {
   display: inline-block; padding: 10px 10px 6px 10px; margin: 8px; 
   text-decoration: none; text-align: center;
   color: #474134;
@@ -40,7 +44,7 @@ header nav a, nav a:visited {
   border-radius: 8px;
 }
 
-header nav a:hover, nav a:active, nav a.current {
+nav a:hover, nav a:active, nav a.current {
   color: #73615D;
   background: #DAD1BF;
 }
