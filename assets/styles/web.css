@@ -41,9 +41,25 @@ nav a, nav a:visited {
   border-radius: 8px;
 }
 
-nav a:hover, nav a:active, nav a.current {
+nav a:hover, nav a:active {  
   color: #73615D;
   background: #DAD1BF;
 }
 
+section a, section a:visited {
+padding: 1px 6px 2px 6px;
+border-radius: 4px;
+background: #DAD1BF; color: #7B6F5A;
+  text-decoration: none; /*color: black; border-bottom: 2px solid black;*/
+}
+
+section a:hover, section a:active {
+
+}
+
 h2 { border-bottom: 2px solid #7B6F5A; }
+
+article p { text-align: justify; }
+
+footer {
+}

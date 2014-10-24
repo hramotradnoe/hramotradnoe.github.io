@@ -6,11 +6,13 @@ title  : Новости
 {% include ads.html %}
 
 {% if site.posts.size > 0 %}
-<h2>Новости</h2>
+<section id="news">
+<h1>Новости</h1>
 <ul>
 {% for post in site.posts limit:10 %}
 {% include newsitem.html %}
 {% endfor %}
 </ul>
 <p><a href="/archive">Архив</a></p>
+</section>
 {% endif %}

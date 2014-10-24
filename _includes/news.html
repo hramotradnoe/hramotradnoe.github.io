@@ -1,8 +1,10 @@
 {% if posts.size > 0 %}
-<h2>Новости</h2>
+<section id="news">
+<h1>Новости</h1>
 <ul>
 {% for post in posts %}
 {% include newsitem.html %}
 {% endfor %}
 </ul>
+</section>
 {% endif %}
