@@ -2,7 +2,8 @@
 layout : default
 title  : Расписание
 ---
-<h2>{{site.data.schedule.period}}</h2>
+<section id="schedule">
+<h1>{{site.data.schedule.period}}</h1>
 <table>
 {% for row in site.data.schedule.timetable %}
 {% if row.services == empty %}
@@ -73,3 +74,4 @@ title  : Расписание
 {% endif %}
 {% endfor %}
 </table>
+</section>

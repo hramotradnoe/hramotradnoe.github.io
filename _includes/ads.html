@@ -1,11 +1,15 @@
 {% if ads.size > 0 %}
+<section id="ads">
 <h1>Объявления</h1>
 <ul>
 {% for ad in ads %}
 <li>
-  <h2>{{ad.title}}</h2>
+  <article>
+  <h1>{{ad.title}}</h1>
   <p>{{ad.description | markdownify }}</p>
+  </article>
 </li>
 {% endfor %}
 </ul>
+</section>
 {% endif %}

@@ -1,6 +1,8 @@
 <li>
-  <h2>{{ post.title }}</h2>
+  <article>
+  <h1>{{ post.title }}</h1>
     {{ post.excerpt }}
     <a href="{{post.url}}">Далее</a>
   <p>{{post.date | date:"%d-%m-%Y"}}</p>
+  </article>
 </li>

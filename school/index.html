@@ -8,14 +8,18 @@ title  : Воскресная школа
 {% assign posts = site.categories['school'] %}
 {% include news.html %}
 
+{% if site.data.school.classes.size > 0 %}
+<section id="classes">
 {% for class in site.data.school.classes %}
   {% assign lessons = class.lessons %}
   {% assign students = class.students %}
   {% if lessons.size > 0 or students > 0 %}  
-  <h1>{{ class.title }}</h1>
+  <section>
+    <h1>{{ class.title }}</h1>
   
   {% if lessons.size > 0 %}
-  <h2>Расписание</h2>
+  <section>
+  <h1>Расписание</h1>
   <table>
   {% for lesson in lessons %}
     <tr>
@@ -23,20 +27,28 @@ title  : Воскресная школа
     </tr>
   {% endfor %}
   </table>
+  </section>
   {% endif %}
 
   {% if students.size > 0 %}
-  <h2>Список учащихся</h2>
+  <section>
+  <h1>Список учащихся</h1>
   <ul> 
   {% for student in students %}
     <li>{{ student.name }}</li>
   {% endfor %}
   </ul>
+  </section>
   {% endif %}
   
+  
+  </section>
   {% endif %}
 {% endfor %}
+</section>
+{% endif %}
 
+<section id="about">
 <h1>О школе</h1>
 <p>
 Наша детская воскресная школа имеет своей главной целью раскрыть перед учащимися существо православной веры таким образом, чтобы она воспринималась ими не как совокупность требований и запретов, а как система духовных ценностей, наполняющих жизнь смыслом и содержанием. Именно поэтому занятия в воскресной школе проводятся в форме беседы, или диалога. Возможность такого диалога определяется взаимным стремлением его участников к установлению истины, единством целей, способностью выслушать точку зрения собеседника, как бы она ни отличалась от своей собственной.
@@ -44,3 +56,4 @@ title  : Воскресная школа
 <p>
 Занятия в нашей школе проводятся каждое воскресенье.
 </p>
+</section>

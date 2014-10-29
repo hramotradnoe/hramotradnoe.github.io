@@ -2,11 +2,18 @@
 layout : default
 title  : Духовенство
 ---
-<ul>
-{% for member in site.data.clergy %}
-  <li>
-    <h2>{{member.name}}</h2>
-    <p>{{member.description}}</p>
-  </li>
-{% endfor %}
-</ul>
+{% if site.data.clergy > 0 %}
+<section id="clergy">
+  <h1>Духовенство</h1>
+  <ul>
+  {% for member in site.data.clergy %}
+    <li>
+      <article>
+      <h1>{{member.name}}</h1>
+      <p>{{member.description}}</p>
+      </article>
+    </li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
