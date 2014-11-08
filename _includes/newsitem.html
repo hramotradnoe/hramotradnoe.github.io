@@ -1,8 +1,12 @@
 <li>
   <article>
-  <h1>{{ post.title }}</h1>
-    {{ post.excerpt }}
-    <a href="{{post.url}}">Далее</a>
-  <p>{{post.date | date:"%d-%m-%Y"}}</p>
+    <h1>{{ post.title }}</h1>
+    <summary>
+      {{ post.excerpt }}
+    </summary>
+    <footer>
+      <p><a href="{{post.url}}">Далее</a></p>
+      <time><p>{{post.date | date:"%d-%m-%Y"}}</p></time>
+    </footer>
   </article>
 </li>

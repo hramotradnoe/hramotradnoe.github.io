@@ -1,0 +1,121 @@
+---
+---
+/* Setting things up */
+$font           : Georgia, Serif
+$uxFont         : Tahoma, Sans-Serif
+$background     : #FFF6D6
+$text           : #333333
+$brighter       : #C39E64
+$paler          : #D2C9A9
+$link           : #2C4F78
+$linkVisited    : #476992
+
+html
+  background  : $paler
+
+body
+  background    : $background
+  color         : $text
+  width         : 940px
+  font-family   : $font
+  margin-left   : auto
+  margin-right  : auto
+  padding       : 10pt
+  border-radius : 1em
+  
+body a
+  color : $link
+  text-decoration: none
+  border-bottom: 0.5mm solid $link
+
+body a:visited
+  color : $linkVisited
+  border-bottom: 0.5mm solid $linkVisited
+ 
+header
+  margin-left   : auto
+  margin-right  : auto
+  width         : 940px
+  
+header>img
+  align           : middle
+  vertical-align  : bottom
+
+nav
+  text-align                  : center
+  font-family                 : $uxFont
+  background                  : $brighter
+  border-bottom-left-radius   : 1em
+  border-bottom-right-radius  : 1em
+
+nav>a, nav>a:visited
+  display: inline-block
+  border: none
+  padding: 5pt 8pt 5pt 8pt
+  margin: 6pt
+  text-decoration: none
+  text-align: center
+  color: $text
+  font-weight: bold
+  border-radius: 8pt
+
+nav>a:hover, nav>a:active
+  background: $paler
+
+main>section
+  padding: 1em
+  
+main>section>h1
+  text-align: center
+
+main>section>ul, main>aside>ul
+  list-style: none
+  padding-left: 0
+  
+main>section>ul>li
+  display: inline-block
+  width: 19em
+  padding: 0.5em
+  vertical-align: top
+  
+article>ul
+  list-style: none inside
+
+article>ul>li:before
+  content: "\2012"
+  margin-left: -1ex
+  margin-right: 1ex
+  
+article>footer>time
+  font-size: smaller
+
+body>footer
+  margin: 2em
+  font-family: $uxFont
+  font-size: smaller
+  border-top: 0.5mm solid $paler
+
+table
+  border-collapse: collapse
+
+td, th
+  border: 0.5mm solid $brighter
+  padding: 1ex
+  text-align: center
+  
+p
+  text-align: justify
+  
+article#about
+  width: 80%
+  margin-left: auto
+  margin-right: auto
+  
+
+main>aside
+  width: 15em
+  padding: 1em
+  float: right
+
+main>aside>h1
+  text-align: center
