@@ -1,45 +1,46 @@
 ---
 ---
-/* Setting things up */
-$font           : Georgia, Serif
-$uxFont         : Tahoma, Sans-Serif
-$background     : #FFF6D6
-$text           : #333333
-$brighter       : #C39E64
-$paler          : #D2C9A9
-$link           : #2C4F78
-$linkVisited    : #476992
+
+// Setting things up
+$font                         : Georgia, Serif
+$uxFont                       : Tahoma, Sans-Serif
+$background                   : #FFF6D6
+$text                         : #333333
+$brighter                     : #C39E64
+$paler                        : #D2C9A9
+$link                         : #2C4F78
+$linkVisited                  : #476992
 
 html
-  background  : $paler
+  background                  : $paler
 
 body
-  background    : $background
-  color         : $text
-  width         : 940px
-  font-family   : $font
-  margin-left   : auto
-  margin-right  : auto
-  padding       : 10pt
-  border-radius : 1em
+  background                  : $background
+  color                       : $text
+  width                       : 940px
+  font-family                 : $font
+  margin-left                 : auto
+  margin-right                : auto
+  padding                     : 10pt
+  border-radius               : 1em
   
 body a
-  color : $link
-  text-decoration: none
-  border-bottom: 0.5mm solid $link
+  color                       : $link
+  text-decoration             : none
+  border-bottom               : 0.5mm solid $link
 
 body a:visited
-  color : $linkVisited
-  border-bottom: 0.5mm solid $linkVisited
+  color                       : $linkVisited
+  border-bottom               : 0.5mm solid $linkVisited
  
 header
-  margin-left   : auto
-  margin-right  : auto
-  width         : 940px
+  margin-left                 : auto
+  margin-right                : auto
+  width                       : 940px
   
 header>img
-  align           : middle
-  vertical-align  : bottom
+  align                       : middle
+  vertical-align              : bottom
 
 nav
   text-align                  : center
@@ -49,76 +50,100 @@ nav
   border-bottom-right-radius  : 1em
 
 nav>a, nav>a:visited
-  display: inline-block
-  border: none
-  padding: 5pt 8pt 5pt 8pt
-  margin: 6pt
-  text-decoration: none
-  text-align: center
-  color: $text
-  font-weight: bold
-  border-radius: 8pt
+  display                     : inline-block
+  border                      : none
+  padding                     : 5pt 8pt 5pt 8pt
+  margin                      : 6pt
+  text-decoration             : none
+  text-align                  : center
+  color                       : $text
+  font-weight                 : bold
+  border-radius               : 8pt
 
 nav>a:hover, nav>a:active
-  background: $paler
+  background                  : $paler
 
 main>section
-  padding: 1em
+  margin-left                 : auto
+  margin-right                : auto
   
 main>section>h1
-  text-align: center
+  text-align                  : center
 
 main>section>ul, main>aside>ul
-  list-style: none
-  padding-left: 0
+  list-style                  : none
+  padding-left                : 0
+  
+main>section>ul>li>article>h1
+  text-align                  : center
   
 main>section>ul>li
-  display: inline-block
-  width: 19em
-  padding: 0.5em
-  vertical-align: top
+  display                     : inline-block
+  width                       : 17em
+  padding                     : 1ex
+  vertical-align              : top
+  border                      : 1px solid $brighter
+  border-radius               : 8pt
+  margin                      : 1ex
   
 article>ul
-  list-style: none inside
+  list-style                  : none inside
 
 article>ul>li:before
-  content: "\2012"
-  margin-left: -1ex
-  margin-right: 1ex
+  content                     : "\2012"
+  margin-left                 : -1ex
+  margin-right                : 1ex
   
 article>footer>time
-  font-size: smaller
+  font-size                   : smaller
 
 body>footer
-  margin: 2em
-  font-family: $uxFont
-  font-size: smaller
-  border-top: 0.5mm solid $paler
+  margin                      : 2em
+  font-family                 : $uxFont
+  font-size                   : smaller
+  border-top                  : 1px solid $paler
 
 table
-  border-collapse: collapse
+  border-collapse             : collapse
+  
+
+section#schedule>table
+  width: 40em
+  margin-left                 : auto
+  margin-right                : auto  
 
 td, th
-  border: 1pt solid $brighter
-  padding: 1ex
-  text-align: center
+  border                      : 1px solid $brighter
+  padding                     : 1ex
+  text-align                  : center
   
 p
-  text-align: left
-  -webkit-hyphens: auto
-  -moz-hyphens: auto
-  hyphens: auto
+  text-align                  : left
+  -webkit-hyphens             : auto
+  -moz-hyphens                : auto
+  hyphens                     : auto
   
-article#about
-  width: 80%
-  margin-left: auto
-  margin-right: auto
+section#about, article#about, article#post
+  width                       : 40em
+  margin-left                 : auto
+  margin-right                : auto
   
 
 main>aside
-  width: 15em
-  padding: 1em
-  float: right
+  width                       : 15em
+  padding                     : 1em
+  float                       : right
 
 main>aside>h1
-  text-align: center
+  text-align                  : center
+  
+section#classes
+  width                       : 50em
+  
+section#classes>section
+  display                     : inline-block
+  width                       : 20em
+  padding                     : 1ex
+  vertical-align              : top
+  margin                      : 1ex
+  

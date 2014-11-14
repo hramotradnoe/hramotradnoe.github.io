@@ -18,7 +18,7 @@ title  : Воскресная школа
     <h1>{{ class.title }}</h1>
   
   {% if lessons.size > 0 %}
-  <section>
+  <article>
   <h1>Расписание</h1>
   <table>
   {% for lesson in lessons %}
@@ -27,18 +27,18 @@ title  : Воскресная школа
     </tr>
   {% endfor %}
   </table>
-  </section>
+  </article>
   {% endif %}
 
   {% if students.size > 0 %}
-  <section>
+  <article>
   <h1>Список учащихся</h1>
   <ul> 
   {% for student in students %}
     <li>{{ student.name }}</li>
   {% endfor %}
   </ul>
-  </section>
+  </article>
   {% endif %}
   
   
