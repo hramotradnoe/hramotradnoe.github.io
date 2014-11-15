@@ -27,11 +27,11 @@ body
 body a
   color                       : $link
   text-decoration             : none
-  border-bottom               : 0.5mm solid $link
+  border-bottom               : 2px solid $link
 
 body a:visited
   color                       : $linkVisited
-  border-bottom               : 0.5mm solid $linkVisited
+  border-bottom               : 2px solid $linkVisited
  
 header
   margin-left                 : auto
@@ -77,6 +77,13 @@ main>section>ul, main>aside>ul
 main>section>ul>li>article>h1
   text-align                  : center
   
+main>section>ul>li>article>img
+  width                       : 100%
+  margin-left                 : auto
+  margin-right                : auto
+  border-radius               : 8pt
+  border                      : 1px $paler solid
+  
 main>section>ul>li
   display                     : inline-block
   width                       : 17em
@@ -105,17 +112,16 @@ body>footer
 
 table
   border-collapse             : collapse
-  
-
-section#schedule>table
-  width: 40em
-  margin-left                 : auto
-  margin-right                : auto  
 
 td, th
   border                      : 1px solid $brighter
   padding                     : 1ex
   text-align                  : center
+
+section#schedule>table
+  width: 40em
+  margin-left                 : auto
+  margin-right                : auto  
   
 p
   text-align                  : left
@@ -131,7 +137,7 @@ section#about, article#about, article#post
 
 main>aside
   width                       : 15em
-  padding                     : 1em
+  //padding                     : 1em
   float                       : right
 
 main>aside>h1
@@ -146,4 +152,7 @@ section#classes>section
   padding                     : 1ex
   vertical-align              : top
   margin                      : 1ex
+  
+section#archive
+  text-align                  : center
   

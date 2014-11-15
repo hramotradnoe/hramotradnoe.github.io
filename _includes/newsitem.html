@@ -1,6 +1,10 @@
 <li>
   <article>
     <h1>{{ post.title }}</h1>
+    {% if post.album %}
+    <img id="{{ post.name }}"/>
+    <script>flickrThumbCover('{{ post.name }}');</script>
+    {% endif %}
     <summary>
       {{ post.excerpt }}
     </summary>
