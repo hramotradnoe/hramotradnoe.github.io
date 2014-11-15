@@ -59,6 +59,3 @@ function flickrThumbCover(album) {
     img.src = url;
   });
 }
-
-window.onload = function() {
-}
