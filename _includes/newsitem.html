@@ -1,16 +1,18 @@
 <li>
   <article>
     <h1>{{ post.title }}</h1>
-    {% if post.album %}
-    <img id="{{ post.name }}"/>
-    <script>flickrThumbCover('{{ post.name }}');</script>
-    {% endif %}
     <summary>
       {{ post.excerpt }}
     </summary>
+    {% if post.album %}
+    {% assign current = post.url | downcase | split: '/' %}
+    {% assign name = current[4] %}
+    <img id="{{ name }}"/>
+    <script>flickrThumbCover('{{ name }}');</script>
+    {% endif %}
     <footer>
-      <p><a href="{{post.url}}">Далее</a></p>
       <time><p>{{post.date | date:"%d-%m-%Y"}}</p></time>
+      <p><a href="{{post.url}}">Далее</a></p>
     </footer>
   </article>
 </li>

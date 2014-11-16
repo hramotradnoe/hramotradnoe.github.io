@@ -2,6 +2,8 @@
 layout : default
 title  : Новости
 ---
+<script src="/assets/scripts/flickr.js"></script>
+
 {% assign ads = site.data.ads %}
 {% include ads.html %}
 
@@ -13,6 +15,7 @@ title  : Новости
 {% include newsitem.html %}
 {% endfor %}
 </ul>
+</section>
 <section id="archive">
   <a href="/archive">Архив&#8230;</a>
 </section>

@@ -1,7 +1,17 @@
 ---
 layout : default
 ---
+<script src="/assets/scripts/flickr.js"></script>
 <article id="post">
-<h1>{{ page.title }}</h1>
-{{ content }}
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+  {% if page.album %}
+  {% assign current = page.url | downcase | split: '/' %}
+  {% assign name = current[4] %}
+    <section id="gallery">
+      <section id="thumbnails"></section>
+      <section id="images"></section>
+    </section>
+    <script>flickrGallery('{{name}}')</script>
+  {% endif %}
 </article>
