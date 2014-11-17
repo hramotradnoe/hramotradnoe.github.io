@@ -4,6 +4,7 @@ title  : Расписание
 ---
 <section id="schedule">
 <h1>{{site.data.schedule.period}}</h1>
+<p>Расписание богослужений в формате <a href="{{site.data.schedule.link}}">doc</a>.</p>
 <table>
 {% for row in site.data.schedule.timetable %}
 {% if row.services == empty %}
