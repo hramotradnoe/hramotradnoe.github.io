@@ -1,11 +1,9 @@
-var http = new XMLHttpRequest();
-
 function json(method, url, handler) {
-  if(!http) return;
+  var http = new XMLHttpRequest();
   http.open(method, url, true);
   http.onreadystatechange = function() {
-    if (http.readyState != 4 /* complete */) return; 
-    if (http.status != 200) return;
+    if (http.readyState != 4 /* complete */) return console.log('HTTP incomplete'); 
+    if (http.status != 200) return console.log('HTTP not ready status');
     console.log(http.responseText);
     handler(JSON.parse(http.responseText));
   }
