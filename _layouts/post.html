@@ -6,8 +6,10 @@ layout : default
   <h1>{{ page.title }}</h1>
   {{ content }}
   {% if page.album %}
-  {% assign current = page.url | downcase | split: '/' %}
-  {% assign name = current[4] %}
+    {% assign path = post.path | downcase | split: '/' %}
+    {% assign lastIndex = path.size | minus: 1 %}
+    {% assign path = path[lastIndex] | split: '.' %}
+    {% assign name = path[0] %}
     <section id="gallery">
       <section id="thumbnails"></section>
       <section id="images"></section>
