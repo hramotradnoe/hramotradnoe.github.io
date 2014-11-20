@@ -72,7 +72,7 @@ main>section
 main>section>h1
   text-align                  : center
 
-main>section>ul, main>aside>ul
+main>section>ul, aside ul
   list-style                  : none
   padding-left                : 0
   
@@ -145,13 +145,26 @@ article#about p, article#about p, article#post p
   text-align                  : justify
   
 
-main>aside
-  width                       : 15em
+aside
+  width                       : 19em
   //padding                   : 1em
   float                       : right
 
-main>aside>h1
+aside>section>h1
   text-align                  : center
+  display                     : none
+
+section#calendar p
+  text-align                  : left
+  
+section#calendar>figure
+  padding: 0
+  margin: 1em
+  
+section#calendar>figure#icon a
+  border                      : none
+section#calendar>figure#icon img
+  float: right
 
 section#classes
   width                       : 50em

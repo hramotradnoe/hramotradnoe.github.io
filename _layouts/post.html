@@ -6,7 +6,7 @@ layout : default
   <h1>{{ page.title }}</h1>
   {{ content }}
   {% if page.album %}
-    {% assign path = post.path | downcase | split: '/' %}
+    {% assign path = page.path | downcase | split: '/' %}
     {% assign lastIndex = path.size | minus: 1 %}
     {% assign path = path[lastIndex] | split: '.' %}
     {% assign name = path[0] %}

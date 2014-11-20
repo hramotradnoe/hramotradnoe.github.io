@@ -102,6 +102,7 @@ function flickrGallery(name) {
     var n = photos.length;
     for(var i = 0; i != n; ++i) {
       var photo = photos[i];
+      var nextPhoto = (i == n) ? null : photos[i + 1];
       
       var thumbnail = new Image();
       var imageLink = document.createElement('a');
@@ -115,7 +116,7 @@ function flickrGallery(name) {
       var nextOrCloseLink = document.createElement('a');
       nextOrCloseLink.appendChild(image);
       nextOrCloseLink.title = photo.title;
-      nextOrCloseLink.href = "#_";
+      nextOrCloseLink.href = (nextPhoto == null) ? "#_" : "#" + nextPhoto.title;
       nextOrCloseLink.id = photo.title;
       images.appendChild(nextOrCloseLink);
       image.src = flickrPhotoUrl(photo, FlickrSize.FULLSIZE);    

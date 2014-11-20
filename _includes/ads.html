@@ -2,14 +2,9 @@
 <aside id="ads">
 <h1>Объявления</h1>
 <ul>
-{% for ad in ads %}
-<li>
-  <article>
-  <h1>{{ad.title}}</h1>
-  <p>{{ad.description | markdownify }}</p>
-  </article>
-</li>
-{% endfor %}
+  {% for ad in ads %}
+  {% include ad.html %}
+  {% endfor %}
 </ul>
 </aside>
 {% endif %}
