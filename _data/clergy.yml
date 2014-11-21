@@ -1,26 +1,27 @@
-- name        : Протоиерей Олег Кобец
+- name        : Протоиерей Валерий Буланников
   description : Благочинный храма свт. Николая Мирликийского (в Отрадном)
+  photo       : /assets/images/clergy/valeriy_bulannikov.jpg
   
 - name        : Игумен Филипп (Симонов)
   description : Клирик храма свт. Николая Мирликийского (в Отрадном)
+  photo       : /assets/images/clergy/philipp_simonov.jpg
   
 - name        : Протоиерей Сергий Попов
   description : Клирик храма свт. Николая Мирликийского (в Отрадном)
-  
-- name        : Иерей Валерий Буланников
-  description : Клирик храма свт. Николая Мирликийского (в Отрадном)
+  photo       : /assets/images/clergy/sergiy_popov.jpg
   
 - name        : Протоиерей Дмитрий Рожков
   description : Клирик храма свт. Николая Мирликийского (в Отрадном)
+  photo       : /assets/images/clergy/dmitriy_rozhkov.jpg  
   
 - name        : Иерей Геннадий Гуреев
   description : Клирик храма свт. Николая Мирликийского (в Отрадном)
+  photo       : /assets/images/clergy/gennadiy_gureev.jpg
   
 - name        : Иерей Александр Чибисов
   description : Клирик храма свт. Николая Мирликийского (в Отрадном)
- 
-- name        : Иерей Валерий Буланников
-  description : Клирик храма свт. Николая Мирликийского (в Отрадном)
-  
+  photo       : /assets/images/clergy/alexander_chibisov.jpg
+   
 - name        : Диакон Георгий Яралов
   description : Клирик храма свт. Николая Мирликийского (в Отрадном)
+  photo       : /assets/images/clergy/georgiy_yaralov.jpg

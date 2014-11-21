@@ -8,10 +8,13 @@ title  : Духовенство
   <ul>
   {% for member in site.data.clergy %}
     <li>
-      <article>
-      <h1>{{member.name}}</h1>
-      <p>{{member.description}}</p>
-      </article>
+      <figure>
+        <img src="{{member.photo}}"/>
+        <figcaption>
+          <h1>{{member.name}}</h1>
+          <p>{{member.description}}</p>
+        </figcaption>
+      </figure>
     </li>
   {% endfor %}
   </ul>
