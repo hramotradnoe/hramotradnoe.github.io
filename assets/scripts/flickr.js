@@ -85,11 +85,14 @@ function flickrPlacePhoto(id, photo, size) {
 function flickrThumbCover(name) {
   console.log('generating thumb cover for ' + name);
   flickrHandlePhotoset(name, function(photos) {
+    if(photos == null || photos.length == 0) return;
     for (var i = photos.length; i-->0;) {
       var photo = photos[i];
       if(photo.isprimary == 0) continue;
       flickrPlacePhoto(name, photo, FlickrSize.THUMBNAIL);
+      return;
     }
+    flickrPlacePhoto(name, photos[photos.length - 1], FlickrSize.THUMBNAIL);
   });
 }
 
