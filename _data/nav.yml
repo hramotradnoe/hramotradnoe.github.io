@@ -12,5 +12,7 @@
   ref   : /club
 - title : Социальная служба
   ref   : /service
+- title : Катехизация
+  ref   : /catechesis
 - title : Контакты
   ref   : /contacts
