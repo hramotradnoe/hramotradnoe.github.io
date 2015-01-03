@@ -57,7 +57,7 @@ timetable:
       - day   : 4&nbsp;вскр.
         time  : '9.30'
         title : Часы. Литургия
-        - description : "Мучеников иже в Крите (о. Игорь)"
+  - description : "Мучеников иже в Крите (о. Игорь)"
     services    :
       - day   : 5&nbsp;пн.
         time  : '9.00'
@@ -68,7 +68,15 @@ timetable:
         time  : '18.00'
         title : ЦАРСКИЕ ЧАСЫ.ВЕЧЕРНЯ С ЛИТУРГИЕЙ
       - day   : 6&nbsp;вт.
-        time  : '8.00'
+    description : "РОЖДЕСТВО ГОСПОДА И БОГА И СПАСА НАШЕГО ИИСУСА ХРИСТА (Все служащие)"
+    services    :
+      - day   : 6&nbsp;вт.
+        time  : '18.00'
+        title : Всенощное бдение
+      - day   : 6&nbsp;вт.
+        time  : '23.30'
         title : Часы. Литургия
+      - day   : 7&nbsp;ср.
+        time  : '9.30'
   
 
