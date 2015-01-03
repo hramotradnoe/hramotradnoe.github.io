@@ -54,7 +54,21 @@ timetable:
       - day   : 4&nbsp;вскр.
         time  : '7.00'
         title : Часы. Литургия
-      - day   : 7&nbsp;вскр.
+      - day   : 4&nbsp;вскр.
         time  : '9.30'
         title : Часы. Литургия
+        - description : "Мучеников иже в Крите (о. Игорь)"
+    services    :
+      - day   : 5&nbsp;пн.
+        time  : '9.00'
+        title : Часы. Литургия
+  - description : "Навечерие Рождества Христова Прмц. Евгении  (о. Игорь)"
+    services    :
+      - day   : 5&nbsp;пн.
+        time  : '18.00'
+        title : ЦАРСКИЕ ЧАСЫ.ВЕЧЕРНЯ С ЛИТУРГИЕЙ
+      - day   : 6&nbsp;вт.
+        time  : '8.00'
+        title : Часы. Литургия
+  
 
