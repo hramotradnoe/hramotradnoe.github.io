@@ -1,5 +1,7 @@
 period: Декабрь 2014 - Январь 2015
 link: https://docs.google.com/document/d/13yASyJdYHNgL5cfZJeEM1HtFWD7qhlx_c691ZjuDGuM/
+period: Февраль 2015
+link: https://docs.google.com/document/d/1MvED2JQE8cBzEIW7TxaToMrGTjFcJtZj9ZzM6vMYarU/edit?pli=1
 timetable:
   - description : "Мчч. Ермила и Стратоника.Преподобных отец, в Синае и Раифе избиенных. (о. Игорь)"
     services    :
@@ -52,6 +54,62 @@ timetable:
         time  : '18.00'
         title : Всенощное бдение
       - day   : 1&nbsp;вск.
+        time  : '7.00'
+        title : Часы. Литургия
+      - day   : 1&nbsp;вск.
+        time  : '9.30'
+        title : Часы. Литургия
+  - description : "Прп. Евфимия Великого (о. Геннадий)"
+    services    :
+      - day   : 2&nbsp;пн.
+        time  : '8.00'
+        title : Часы. Литургия
+  - description : "Иконы Божией Матери «Отрада» или «Утешение» (Все служащие) "
+    services    :
+      - day   : 2&nbsp;пн.
+        time  : '18.00'
+        title : Всенощное бдение
+      - day   : 3&nbsp;вт.
+        time  : '8.00'
+        title : Часы.Литургия
+  - description : "Ап. Тимофей. Прмч. Анастасия Персянина (о. Геннадий)"
+    services    :
+      - day   : 3&nbsp;вт.
+        time  : '18.00'
+        title : Вечерня. Утреня. 1-й час
+      - day   : 4&nbsp;ср.
+        time  : '8.00'
+        title : Часы.Литургия
+  - description : "Сщмч. Климента, епископа Анкирского и мч. Агафангела (о. Геннадий)"
+    services    :
+      - day   : 4&nbsp;ср.
+        time  : '18.00'
+        title : Вечерня. Утреня. 1-й час
+      - day   : 5&nbsp;чт.
+        time  : '8.00'
+        title : Часы.Литургия
+  - description : "Блаж. Ксении Петербургской (о. Геннадий)"
+    services    :
+      - day   : 5&nbsp;чт.
+        time  : '18.00'
+        title : Вечерня. Утреня с полиелеем. 1-й час
+      - day   : 6&nbsp;пт.
+        time  : '8.00'
+        title : Часы.Литургия
+  - description : "Свт. Григория Богослова, архиеп. Константинопольского. Иконы Божией Матери «Утоли моя печали» (о. Геннадий)"
+    services    :
+      - day   : 6&nbsp;пт.
+        time  : '18.00'
+        title : Вечерня. Утреня с полиелеем. 1-й час
+      - day   : 7&nbsp;сб.
+        time  : '9.00'
+        title : Часы.Литургия
+  - description : "Неделя о блудном сыне,Собор новомучеников и исповедников Церкви Русской (Все служащие)"
+    services    :
+      - day   : 7&nbsp;сб.
+        time  : '18.00'
+        title : Всенощное бдение
+      - day   : 8&nbsp;вск.
         time  : '7.00'
         title : Часы. Литургия
       - day   : 1&nbsp;вск.
