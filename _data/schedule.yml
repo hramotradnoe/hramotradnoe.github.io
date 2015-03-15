@@ -2,7 +2,7 @@ period: Март 2015
 link: https://docs.google.com/document/d/13hnkz6SDBKY5jwQw9ydzlkUfHYsZVZ878WJWGxdJ0II/edit
 timetable:
  - description : "Мчч. Евтропия, Клеоника и Василиска (о. Геннадий)"
-   services 
+   services    :
       - day   : 16&nbsp;пн.
         time  : '8.00'
         title : Часы. Изобразительны. Вечерня
