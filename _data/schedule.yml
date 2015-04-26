@@ -1,56 +1,40 @@
 period: Апрель 2015
 link: https://docs.google.com/document/d/1GUaF_9P8RQ9D1x63GHTyQcBKL2tczU2zryXDWHGz3gg/edit?pli=1
 timetable:
- - description : "Прп. Георгия исповедника, митрополита Митиленского (о. Игорь)"
+ - description : "Свт. Мартина исповедника, папы Римского (о. Геннадий)"
    services    :
-      - day   : 20&nbsp;пн.
+      - day   : 27&nbsp;пн.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Радоница Поминовение усопших (о.Игорь)"
+ - description : "Апп. от 70- ти Аристарха, Пуда и Трофима (о.Геннадий)"
    services    :
-      - day   : 20&nbsp;пн.
+      - day   : 27&nbsp;пн.
         time  : '18.00'
         title : "Вечерня. Утреня.1-й час"
-      - day   : 21&nbsp;вт.
+      - day   : 28&nbsp;вт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Мч. Евпсихия (о.Игорь)"
+ - description : "Мцц. Агапии, Ирины и Хионии (о.Геннадий)"
    services    :
-      - day   : 21&nbsp;вт.
+      - day   : 28&nbsp;вт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час"
-      - day   : 22&nbsp;ср.
+      - day   : 29&nbsp;ср.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Мчч. Терентия, Помпия,Африкана и иных (о.Игорь)"
+ - description : "Прп. Зосимы, игумена Соловецкого (о.Геннадий)"
    services    :
-      - day   : 22&nbsp;ср.
+      - day   : 29&nbsp;ср.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час"
-      - day   : 23&nbsp;чт.
+      - day   : 30&nbsp;чт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Сщмч. Антипы, епископа Пергама Асийского (о.Игорь)"
+ - description : "Прп. Иоанна, ученика прп Григория Декаполита (о.Геннадий)"
    services    :
-      - day   : 23&nbsp;чт.
+      - day   : 30&nbsp;чт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час"
-      - day   : 24&nbsp;пт.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Прп. Василия исповедника, епископа Парийского (о.Игорь)"
-   services    :
-      - day   : 24&nbsp;пт.
-        time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час"
-      - day   : 25&nbsp;сб.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Неделя 3-я по Пасхе, Апостола Фомы.Святых жен – мироносиц (Все служащие)"
-   services    :
-      - day   : 25&nbsp;сб.
-        time  : '18.00'
-        title : "Всенощное бдение"
-      - day   : 26&nbsp;вск.
+      - day   : 1&nbsp;пт.
         time  : '9.00'
         title : "Часы.Литургия"
