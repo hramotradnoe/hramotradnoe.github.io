@@ -1,40 +1,40 @@
-period: Апрель 2015
-link: https://docs.google.com/document/d/1GUaF_9P8RQ9D1x63GHTyQcBKL2tczU2zryXDWHGz3gg/edit?pli=1
+period: Май 2015
+link: https://docs.google.com/document/d/1_AY-_QHe8g8jIL_658jXUBTbY1ISJEbWjZa6nQJsNtQ/edit
 timetable:
- - description : "Свт. Мартина исповедника, папы Римского (о. Геннадий)"
+ - description : "Блаж.  Матроны Московской (о.Геннадий)"
    services    :
-      - day   : 27&nbsp;пн.
-        time  : '8.00'
-        title : "Часы. Литургия"
- - description : "Апп. от 70- ти Аристарха, Пуда и Трофима (о.Геннадий)"
-   services    :
-      - day   : 27&nbsp;пн.
-        time  : '18.00'
-        title : "Вечерня. Утреня.1-й час"
-      - day   : 28&nbsp;вт.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Мцц. Агапии, Ирины и Хионии (о.Геннадий)"
-   services    :
-      - day   : 28&nbsp;вт.
-        time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час"
-      - day   : 29&nbsp;ср.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Прп. Зосимы, игумена Соловецкого (о.Геннадий)"
-   services    :
-      - day   : 29&nbsp;ср.
-        time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час"
-      - day   : 30&nbsp;чт.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Прп. Иоанна, ученика прп Григория Декаполита (о.Геннадий)"
-   services    :
-      - day   : 30&nbsp;чт.
-        time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час"
       - day   : 1&nbsp;пт.
+        time  : '18.00'
+        title : "Вечерня. Утреня с полиелеем.1-й час"
+      - day   : 2&nbsp;сб.
         time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "НЕДЕЛЯ 4-Я ПО ПАСХЕ,  О расслабленном. Прп. Феодора Трихины (Все служащие)"
+   services    :
+      - day   : 2&nbsp;сб.
+        time  : '18.00'
+        title : "Вечерня. Утреня. 1-й час"
+      - day   : 3&nbsp;вск.
+        time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "Сщмч. Ианнуария епископа и иже с ним (о.Александр)"
+   services    :
+      - day   : 4&nbsp;пн.
+        time  : '9.00'
+        title : "Часы. Литургия"
+ - description : "Прп. Феодора Сикеота, епископа Анастасиупольского (о. Александр)"
+   services    :
+      - day   : 4&nbsp;пн.
+        time  : '18.00'
+        title : "Вечерня. Утреня. 1-й час"
+      - day   : 5&nbsp;вт.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Преполовение Пятидесятницы Вмч. Георгия Победоносца. Иверской иконы Божией Матери (о. Александр)"
+   services    :
+      - day   : 5&nbsp;вт.
+        time  : '18.00'
+        title : "Вечерня. Утреня с полиелеем. 1-й час"
+      - day   : 6&nbsp;ср.
+        time  : '8.00'
         title : "Часы.Литургия"
