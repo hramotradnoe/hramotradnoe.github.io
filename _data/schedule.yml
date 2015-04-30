@@ -1,6 +1,11 @@
 period: Май 2015
 link: https://docs.google.com/document/d/1_AY-_QHe8g8jIL_658jXUBTbY1ISJEbWjZa6nQJsNtQ/edit
 timetable:
+ - description : "Прп. Иоанна, ученика прп. Григория Декаполита (о. Геннадий)"
+   services    :
+      - day   : 1&nbsp;пт.
+        time  : '9.00'
+        title : "Часы. Литургия"
  - description : "Блаж.  Матроны Московской (о.Геннадий)"
    services    :
       - day   : 1&nbsp;пт.
