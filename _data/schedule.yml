@@ -1,69 +1,69 @@
 period: Август 2015
 link: https://docs.google.com/document/d/1uuE9xhTuOiFAjOGwbaVZb1gSC1xGTzW5ULEB5LPkpV8/edit
 timetable:
- - description : "Прп. Никодима Святогорца."
-   services    :
-      - day   : 27&nbsp;пн.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Равноап. Владимира, во Святом Крещении Василия"
-   services    :
-      - day   : 27&nbsp;пн.
-        time  : '18.00'
-        title : "Вечерня.Утреня с полиелеем. 1-й час"
-      - day   : 28&nbsp;вт.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Сщмч. Афиногена епископа и десяти учеников его."
-   services    :
-      - day   : 28&nbsp;вт.
-        time  : '18.00'
-        title : "Вечерня.Утреням.1-й час"
-      - day   : 29&nbsp;ср.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Вмц. Марины (Маргариты)."
-   services    :
-      - day   : 29&nbsp;ср.
-        time  : '18.00'
-        title : "Вечерня.Утреня.1-й час"
-      - day   : 30&nbsp;чт.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Прп. Иоанна Многострадального, Печерского, в Ближних пещерах."
-   services    :
-      - day   : 30&nbsp;чт.
-        time  : '18.00'
-        title : "Вечерня.Утреня. 1-й час"
-      - day   : 31&nbsp;пт.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Обретение мощей прп. Серафима, Саровского чудотворца"
-   services    :
-      - day   : 31&nbsp;пт.
-        time  : '18.00'
-        title : "Вечерня.Утреня с полиелеем.1-й час"
-      - day   : 1&nbsp;сб.
-        time  : '9.00'
-        title : "Часы.Литургия"
- - description : "НЕДЕЛЯ 9-Я ПО ПЯТИДЕСЯТНИЦЕ. Пророка Илии."
-   services    :
-      - day   : 1&nbsp;сб.
-        time  : '18.00'
-        title : "Вечерня.Утреня.1-й час"
-      - day   : 2&nbsp;вск.
-        time  : '9.00'
-        title : "Часы.Литургия"
  - description : "Пророка Иезекииля."
    services    :
-      - day   : 2&nbsp;пн.
+      - day   : 3&nbsp;пн.
         time  : '8.00'
         title : "Часы.Литургия"
  - description : "Мироносицы Марии Магдалины."
    services    :
       - day   : 3&nbsp;пн.
         time  : '18.00'
+        title : "Вечерня.Утреня. 1-й час"
+      - day   : 48&nbsp;вт.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Почаевской иконы Божией Матери. Иконы Божией Матери «Всех скорбящих Радость» (с грошиками)."
+   services    :
+      - day   : 48&nbsp;вт.
+        time  : '18.00'
+        title : "Вечерня.Утреня с полиелеем.1-й час"
+      - day   : 5&nbsp;ср.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Мчч. Блгвв. кнн. Бориса и Глеба, во Святом Крещении Романа и Давида. Мц. Христины."
+   services    :
+      - day   : 5&nbsp;ср.
+        time  : '18.00'
+        title : "Вечерня.Утреня со славословием.1-й час"
+      - day   : 6&nbsp;чт.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Успение прав. Анны, матери Пресвятой Богородицы."
+   services    :
+      - day   : 6&nbsp;чт.
+        time  : '18.00'
+        title : "Вечерня.Утреня. 1-й час"
+      - day   : 7&nbsp;пт.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Сщмч. Ермолая и иже с ним. Прп. Моисея Угрина, Печерского, в Ближних Пещерах"
+   services    :
+      - day   : 7&nbsp;пт.
+        time  : '18.00'
         title : "Вечерня.Утреня.1-й час"
-      - day   : 3&nbsp;вт.
+      - day   : 8&nbsp;сб.
+        time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "НЕДЕЛЯ 10-Я ПО ПЯТИДЕСЯТНИЦЕВмч. и целителя Пантелеимона."
+   services    :
+      - day   : 8&nbsp;сб.
+        time  : '18.00'
+        title : "Всенощное бдение"
+      - day   : 9&nbsp;вск.
+        time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "Свт. Питирима, еп. Тамбовского."
+   services    :
+      - day   : 10&nbsp;пн.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Мч. Каллиника/"
+   services    :
+      - day   : 10&nbsp;пн.
+        time  : '18.00'
+        title : "Вечерня.Утреня.1-й час"
+      - day   : 11&nbsp;вт.
         time  : '8.00'
         title : "Часы.Литургия"
