@@ -58,6 +58,7 @@ timetable:
         time  : '9.30'
         title : "Часы.Литургия"
  - description : "Апостола Фомы"
+   services    :
       - day   : 19&nbsp;пн.
         time  : '8.00'
         title : "Часы.Литургия"
