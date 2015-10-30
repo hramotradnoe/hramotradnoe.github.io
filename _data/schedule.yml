@@ -1,5 +1,5 @@
-period: Октябрь 2015
-link: https://docs.google.com/document/d/1GXNacuL7Jy-ob5nXXQR35mdcqKFNkgqp7gpmu4Gbf-s/edit
+period: Ноябрь 2015
+link: https://docs.google.com/document/d/1CN5P4vVfMlmydKAfHpWqXxQddnHoUrA0qXNm8HplBFo/edit
 timetable:
  - description : "Иверской иконы Божией Матери"
    services    :
@@ -45,4 +45,71 @@ timetable:
         title : "Вечерня.Утреня с полиелеем.1-й час"
       - day   : 31&nbsp;сб.
         time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "Неделя 22- я по Пятидесятнице,Мч. Уара."
+   services    :
+      - day   : 31&nbsp;сб.
+        time  : '18.00'
+        title : "Всенощное бдение"
+      - day   : 1&nbsp;вск.
+        time  : '7.00'
+        title : "Часы.Литургия"
+      - day   : 1&nbsp;вск.
+        time  : '9.30'
+        title : "Часы.Литургия"
+ - description : "Вмч. Артемия"
+   services    :
+      - day   : 2&nbsp;пн.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Прп. Иллариона Великого"
+   services    :
+      - day   : 2&nbsp;пн.
+        time  : '18.00'
+        title : "Вечерня.Утреня. 1-й час"
+      - day   : 3&nbsp;вт.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Празднование Казанской иконы Божией Матери."
+   services    :
+      - day   : 3&nbsp;вт.
+        time  : '18.00'
+        title : "Всенощное бдение"
+      - day   : 4&nbsp;ср.
+        time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "Апостола Иакова, брата Господня."
+   services    :
+      - day   : 4&nbsp;ср.
+        time  : '18.00'
+        title : "Вечерня.Утреня.1-й час"
+      - day   : 5&nbsp;чт.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Иконы Божией Матери Всех скорбящих Радость."
+   services    :
+      - day   : 5&nbsp;чт.
+        time  : '18.00'
+        title : "Вечерня.Утреня с полиелеем. 1-й час."
+      - day   : 6&nbsp;пт.
+        time  : '8.00'
+        title : "Часы.Литургия"
+ - description : "Дмитриевская родительская суббота."
+   services    :
+      - day   : 6&nbsp;пт.
+        time  : '18.00'
+        title : "Вечерня.Утреня с парастасом.1-й час"
+      - day   : 7&nbsp;сб.
+        time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "Неделя 23-я по Пятидесятнице Вмч. Димитрия Солунского."
+   services    :
+      - day   : 7&nbsp;сб.
+        time  : '18.00'
+        title : "Всенощное бдение"
+      - day   : 8&nbsp;вск.
+        time  : '7.00'
+        title : "Часы.Литургия"
+      - day   : 8&nbsp;вск.
+        time  : '9.30'
         title : "Часы.Литургия"
