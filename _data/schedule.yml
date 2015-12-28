@@ -1,5 +1,5 @@
-period: Декабрь 2015
-link: https://docs.google.com/document/d/1xkaoQMtxLumJU84-xelJ_Fv-v_MQcfP2cO0kfPoxalI/edit?pli=1
+period: Январь 2016
+link: https://docs.google.com/document/d/1WJkdm1Ob7dY28KiKhnIwF8Pj8BrcCIb4HCUCFWZURFc/edit
 timetable:
  - description : "Сщмч. Елевферия. Прп. Павла Латрийского. о. Игорь"
    services    :
@@ -80,10 +80,10 @@ timetable:
         title : "Часы.Литургия"
  - description : "РОЖДЕСТВО ГОСПОДА И БОГА И СПАСА НАШЕГО ИИСУСА ХРИСТА. Все служащие"
    services    :
-     - day   : 6&nbsp;ср.
+      - day   : 6&nbsp;ср.
         time  : '18.00'
         title : "ВСЕНОЩНОЕ БДЕНИЕ"
-     - day   : 6&nbsp;ср.
+      - day   : 6&nbsp;ср.
         time  : '23.30'
         title : "Часы.Литургия"
       - day   : 7&nbsp;чт.
