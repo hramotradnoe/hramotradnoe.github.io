@@ -52,8 +52,5 @@ timetable:
         time  : '18.00'
         title : "Всенощное бдение"
       - day   : 31&nbsp;вск.
-        time  : '7.00'
-        title : "Часы.Литургия"
-      - day   : 31&nbsp;вск.
-        time  : '9.30'
+        time  : '9.00'
         title : "Часы.Литургия"
