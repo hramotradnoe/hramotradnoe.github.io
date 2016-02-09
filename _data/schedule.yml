@@ -1,12 +1,12 @@
 period: Февраль 2016
 link: "https://docs.google.com/document/d/1MRnRzMpEdNcRiuZwPqMXle6WDNrjjhkfhUWmukT13HE/edit"
 timetable:
- - description : "Прп. Ксенофонта Константинопольского. о. Александр"
+ - description : "Прп. Ксенофонта Константинопольского. о. Игорь"
    services    :
       - day   : 1&nbsp;пн.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Перенесение мощей святителя Иоанна Златоустого. о. Александр"
+ - description : "Перенесение мощей святителя Иоанна Златоустого. о. Игорь"
    services    :
       - day   : 8&nbsp;пн.
         time  : '18.00'
@@ -14,7 +14,7 @@ timetable:
       - day   : 9&nbsp;вт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Прп. Ефрема Сирина"
+ - description : "Прп. Ефрема Сирина. о. Игорь"
    services    :
       - day   : 9&nbsp;вт.
         time  : '18.00'
@@ -22,7 +22,7 @@ timetable:
       - day   : 10&nbsp;ср.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Перенесение мощей свт. Игнатия Богоносца. о. Александр"
+ - description : "Перенесение мощей свт. Игнатия Богоносца. о. Игорь"
    services    :
       - day   : 10&nbsp;ср.
         time  : '18.00'
@@ -30,7 +30,7 @@ timetable:
       - day   : 11&nbsp;чт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Собор вселенских учителей и святителей Василия Великого, Григория Богослова и Иоанна Златоустого. о. Александр"
+ - description : "Собор вселенских учителей и святителей Василия Великого, Григория Богослова и Иоанна Златоустого. о. Игорь"
    services    :
       - day   : 11&nbsp;чт.
         time  : '18.00'
@@ -38,7 +38,7 @@ timetable:
       - day   : 12&nbsp;пт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Свв. бессребреников Кира и Иоанна. о. Александр"
+ - description : "Свв. бессребреников Кира и Иоанна. о. Игорь"
    services    :
       - day   : 12&nbsp;пт.
         time  : '18.00'
@@ -64,3 +64,4 @@ timetable:
         title : "Всенощное бдение"
       - day   : 15&nbsp;пн.
         time  : '8.00'
+        title : "Часы.Литургия"
