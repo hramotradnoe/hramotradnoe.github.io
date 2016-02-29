@@ -1,59 +1,54 @@
-period: Февраль 2016
-link: "https://docs.google.com/document/d/1MRnRzMpEdNcRiuZwPqMXle6WDNrjjhkfhUWmukT13HE/edit"
+period: Март 2016
+link: "https://docs.google.com/document/d/1XWbzxFk-gzUN6hnhOv8KZbaRtJ9ggFhOEVgPqBpCYL4/edit"
 timetable:
- - description : "Обретение мощей свт. Иннокентия епископа Иркутского. о. Александр"
+  - description : "Вмч. Феодора Тирона. Сщмч Ермогена, патриарха Москвского и всея России, чудотворца. о. Игорь"
    services    :
-      - day   : 22&nbsp;пн.
+      - day   : 29&nbsp;пн.
+        time  : '18.00'
+        title : "Вечерня.Утреня с полиелеем. 1-й час"
+      - day   : 1&nbsp;вт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Сщмч. Харлампия. о. Александр"
+ - description : "Свт. Льва, папы Римского. о. Игорь"
    services    :
-      - day   : 22&nbsp;пн.
+      - day   : 1&nbsp;вт.
         time  : '18.00'
         title : "Вечерня.Утреня. 1-й час"
-      - day   : 23&nbsp;вт.
+      - day   : 2&nbsp;ср.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Сщмч. Власия, еп. Севастийского. о. Александр"
+ - description : "Апп. от 70-ти Архипа и Филимона и мц. равноап. Апфии. о. Игорь"
    services    :
-      - day   : 23&nbsp;вт.
+      - day   : 2&nbsp;ср.
         time  : '18.00'
         title : "Вечерня.Утреня. 1-й час"
-      - day   : 24&nbsp;ср.
+      - day   : 3&nbsp;чт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Свт. Мелетия, архиепископа Антиохийского. о. Александр"
+ - description : "Прп. Льва, епископа Катанского. Блгв. кн. Ярослава Мудрого. о. Игорь"
    services    :
-      - day   : 24&nbsp;ср.
-        time  : '18.00'
-        title : "Вечерня.Утреня. 1-й час"
-      - day   : 25&nbsp;чт.
-        time  : '8.00'
-        title : "Часы.Литургия"
- - description : "Прпп. Зои и Фотинии. Прп. Мартиниана. о. Александр"
-   services    :
-      - day   : 25&nbsp;чт.
+      - day   : 3&nbsp;чт.
         time  : '18.00'
         title : "Вечерня.Утреня. 1-й час."
-      - day   : 26&nbsp;пт.
+      - day   : 4&nbsp;пт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Прп. Авксентия. о. Александр"
+ - description : "ВСЕЛЕНСКАЯ РОДИТЕЛЬСКАЯ СУББОТА. Поминовение усопших. Все служащие"
    services    :
-      - day   : 26&nbsp;пт.
+      - day   : 4&nbsp;пт.
         time  : '18.00'
-        title : "Вечерня.Утреня. 1-й час."
-      - day   : 27&nbsp;сб.
+        title : "Утреня с парастасом.1-й час."
+      - day   : 5&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
- - description : "Неделя о блудном сыне. Все служащие"
+ - description : "Неделя мясопустная,о Страшном Суде. Все служащие"
    services    :
-      - day   : 27&nbsp;сб.
+      - day   : 5&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение"
-      - day   : 28&nbsp;вск.
+      - day   : 6&nbsp;вск.
         time  : '7.00'
         title : "Часы.Литургия"
-      - day   : 28&nbsp;вск.
+      - day   : 6&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия"
