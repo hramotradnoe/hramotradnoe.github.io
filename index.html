@@ -10,8 +10,10 @@ title  : Новости
 {% if site.posts.size > 0 %}
 <section id="news">
 <ul>
-{% for post in site.posts limit:10 %}
+{% for post in site.posts limit:30 %}
+{% if post.list != 'section-only' %}
 {% include newsitem.html %}
+{% endif %}
 {% endfor %}
 </ul>
 </section>

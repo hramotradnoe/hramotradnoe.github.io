@@ -32,7 +32,17 @@ body a
 body a:visited
   color                       : $linkVisited
   border-bottom               : 2px solid $linkVisited
- 
+  
+body a[href^="https://www.youtube.com"]
+  border-bottom               : none
+  display                     : block
+  width: 100%
+  
+a[href^="https://www.youtube.com"]>img
+  width: 100%
+  border-radius               : 1em
+  border                      : 1px solid $paler
+
 header
   margin-left                 : auto
   margin-right                : auto
@@ -79,7 +89,7 @@ main>section>ul, aside ul
 main>section>ul>li>article>h1
   text-align                  : center
   
-main>section>ul>li>article>img
+main>section>ul>li>article img
   width                       : 100%
   margin-left                 : auto
   margin-right                : auto

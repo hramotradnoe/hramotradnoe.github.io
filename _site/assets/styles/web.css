@@ -1,0 +1,250 @@
+@charset "UTF-8";
+html {
+  background: #D2C9A9; }
+
+body {
+  background: #FFF6D6;
+  color: #333333;
+  width: 940px;
+  font-family: Georgia, Serif;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10pt;
+  border-radius: 1em; }
+
+body a {
+  color: #2C4F78;
+  text-decoration: none;
+  border-bottom: 2px solid #2C4F78; }
+
+body a:visited {
+  color: #476992;
+  border-bottom: 2px solid #476992; }
+
+body a[href^="https://www.youtube.com"] {
+  border-bottom: none;
+  display: block;
+  width: 100%; }
+
+a[href^="https://www.youtube.com"] > img {
+  width: 100%;
+  border-radius: 1em;
+  border: 1px solid #D2C9A9; }
+
+header {
+  margin-left: auto;
+  margin-right: auto;
+  width: 940px; }
+
+header > img {
+  align: middle;
+  vertical-align: bottom;
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em; }
+
+nav {
+  text-align: center;
+  font-family: Tahoma, Sans-Serif;
+  background: #C39E64;
+  border-bottom-left-radius: 1em;
+  border-bottom-right-radius: 1em; }
+
+nav > a, nav > a:visited {
+  display: inline-block;
+  border: none;
+  padding: 5pt 8pt 5pt 8pt;
+  margin: 6pt;
+  text-decoration: none;
+  text-align: center;
+  color: #333333;
+  font-weight: bold;
+  border-radius: 1em; }
+
+nav > a:hover, nav > a:active {
+  background: #D2C9A9; }
+
+main > section {
+  margin-left: auto;
+  margin-right: auto; }
+
+main > section > h1 {
+  text-align: center; }
+
+main > section > ul, aside ul {
+  list-style: none;
+  padding-left: 0; }
+
+main > section > ul > li > article > h1 {
+  text-align: center; }
+
+main > section > ul > li > article img {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1em;
+  border: 1px #D2C9A9 solid; }
+
+main > section > ul > li {
+  display: inline-block;
+  width: 20em;
+  padding: 1ex;
+  vertical-align: top;
+  border: 2px solid #C39E64;
+  border-radius: 1em;
+  margin: 1ex;
+  font-size: smaller; }
+
+article > ul {
+  list-style: none inside; }
+
+article > ul > li:before {
+  content: "‒";
+  margin-left: -1ex;
+  margin-right: 1ex; }
+
+article > footer > time {
+  font-size: smaller;
+  float: left; }
+
+article > footer > p {
+  text-align: right; }
+
+body > footer {
+  margin: 2em;
+  font-family: Tahoma, Sans-Serif;
+  font-size: smaller;
+  border-top: 2px solid #D2C9A9; }
+
+table {
+  border-collapse: collapse; }
+
+td, th {
+  border: 1px solid #C39E64;
+  padding: 1ex;
+  text-align: center; }
+
+section#schedule > table {
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto; }
+
+p {
+  text-align: left;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto; }
+
+audio {
+  width: 100%; }
+
+section#about, section#schedule, article#about, article#post {
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto; }
+
+article#about p, article#about p, article#post p {
+  text-align: justify; }
+
+aside {
+  width: 19em;
+  float: right; }
+
+aside > h1 {
+  display: none; }
+
+aside > section > h1 {
+  text-align: center;
+  display: none; }
+
+section#calendar p {
+  text-align: left;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  hyphens: none; }
+
+section#calendar > figure {
+  padding: 0;
+  margin: 0; }
+
+section#calendar > figure#icon a {
+  border: none; }
+
+section#calendar > figure#icon img {
+  float: right;
+  margin-left: 1ex;
+  border-radius: 1em;
+  border: 1px solid #D2C9A9; }
+
+section#classes {
+  width: 50em; }
+
+section#classes > section {
+  display: inline-block;
+  width: 20em;
+  padding: 1ex;
+  vertical-align: top;
+  margin: 1ex; }
+
+section#archive {
+  text-align: center; }
+
+section#thumbnails {
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center; }
+
+section#thumbnails > a, section#thumbnails > a:visited {
+  border-bottom: none; }
+
+section#thumbnails img {
+  width: 12em;
+  margin: 1ex;
+  border-radius: 1em;
+  border: 1px solid #D2C9A9; }
+
+section#images > a, section#images > a:visited {
+  border-bottom: none;
+  display: none;
+  z-index: 9999;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  vertical-align: middle;
+  margin-top: auto;
+  margin-bottom: auto; }
+
+section#images > a > img {
+  max-width: 90%;
+  max-height: 90%;
+  vertical-align: middle;
+  border-radius: 1em;
+  margin-top: 2%; }
+
+section#images > a:target {
+  outline: none;
+  display: block;
+  vertical-align: middle; }
+
+section#clergy {
+  text-align: center; }
+
+section#clergy figure {
+  width: 100%;
+  padding: 0;
+  margin: 0; }
+
+section#clergy figure > img {
+  display: inline-block;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 1em;
+  border: 1px solid #D2C9A9; }
+
+section#clergy figure > figcaption, section#clergy figure > figcaption > p {
+  text-align: center; }

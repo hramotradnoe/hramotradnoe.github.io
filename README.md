@@ -74,6 +74,7 @@
       Кавычки `&laquo;`, `&raquo`
 
 #### Добавление фотографий к новости
+
 Фотографии к новости добавляются через аккаунт hramotradnoe на https://flickr.com. Чтобы у новости появились фотографии, надо:
 
 1. Создать на фликре альбом с датой и названием новости, например `014-09-11-optina`.
@@ -88,6 +89,33 @@
       ---
 
 #### Вставка аудиозаписей в текст новости
+
       <audio preload="none" controls="controls">
         <source type="audio/mpeg" src="<Ссылка>" />
       </audio>
+
+Например:
+
+      <audio preload="none" controls="controls">
+        <source type="audio/mpeg" src="http://radiovera.ru/wp-content/uploads/2016/01/Svetlyiy-vecher-Markelova-Viktoriya-e%60f.-25.01.2016-CHast-1web.mp3" />
+      </audio>
+
+
+#### Вставка ссылки на youtube в текст новости
+
+`[![<Название>](https://img.youtube.com/vi/<Идентификатор видео>/mqdefault.jpg)](https://www.youtube.com/watch?v=<Идентификатор видео>)`
+
+Например:
+
+`[![Православная Психология](https://img.youtube.com/vi/kPdbL_W44_8/mqdefault.jpg)](https://www.youtube.com/watch?v=kPdbL_W44_8)`
+
+#### Как сделать новость локальной
+
+Для того, чтобы исключить новость из общего списка новостей на главной странице и оставить ее только в соответствующем разделе, надо добавить параметр `list : section-only` к заголовку новости. Например:
+
+      ---
+      layout  : post
+      title   : Психология поста
+      list    : section-only
+      ---
+
