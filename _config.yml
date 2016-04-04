@@ -2,12 +2,8 @@ title       : Храм Святителя Николая Мирликийско�
 description : Подворье Патриарха Московского и Всея Руси
 author      : Во Славу Божию
 url         : http://hramotradnoe.github.io
-# url         : http://localhost
 
-markdown    : redcarpet
-
-redcarpet   :
-  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+markdown    : kramdown
 
 permalink   : /posts/:categories/:year/:month/:title/
 exclude     :
