@@ -11,7 +11,9 @@
 - title : Молодежный клуб
   ref   : /club
 - title : Социальная служба
-  ref   : /service
+  ref   : /social
+- title : Психологическая служба
+  ref   : /psychology
 - title : Катехизация
   ref   : /catechesis
 - title : Контакты
