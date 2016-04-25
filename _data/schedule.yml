@@ -62,7 +62,7 @@ timetable:
         title : "Часы.Литургия"
  - description : "СВЕТЛОЕ ХРИСТОВО ВОСКРЕСЕНИЕ. ПАСХА. Все служащие"
    services    : 
-       - day   : 1&nbsp;вск.
+      - day   : 1&nbsp;вск.
         time  : '18.00'
         title : "Пасхальная Вечерня"
 
