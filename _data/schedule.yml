@@ -1,56 +1,56 @@
-period: Май 2016
-link: "https://docs.google.com/document/d/1NczJDhuGR3n7_D82GvpvFZWMSCdoUYXvF8RaEEH-3HI/edit"
+period: Июнь 2016
+link: "https://docs.google.com/document/d/1jPdz0A_W_L6xpexcnabvLHD5rmxPsTCOnxXiMbhG3ZQ/edit"
 timetable:
- - description : "Апостола Симона Зилота. о. Александр"
+ - description : "Прп. Евфросинии, вел. кн. Московской. о. Геннадий"
    services    : 
-      - day   : 23&nbsp;пн.
+      - day   : 30&nbsp;пн.
         time  : '8.00'
         title : "Утреня.Часы.Литургия"
- - description : "Равноап. Мефодия и Кирилла, учителей Словенских. о. Игорь"
+ - description : "Мч. Феодота Анкирского и мцц. семи дев. о. Геннадий"
    services    :
-      - day   : 236&nbsp;пн.
+      - day   : 306&nbsp;пн.
         time  : '18.00'
         title : "Вечерня. Утреня с полиелеем.1-й час."
-      - day   : 24&nbsp;вт.
+      - day   : 31&nbsp;вт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "сщмч. Ермогена, патриарха Московского и всея России, чудотворца. о. Игорь"
+ - description : "Блгв. вел. кн. Димитрия Донского. о.Геннадий"
    services    :
-      - day   : 24&nbsp;вт.
+      - day   : 31&nbsp;вт.
         time  : '18.00'
-        title : "Вечерня.Утреня с полиелеем.1-й час."
-      - day   : 25&nbsp;ср.
+        title : "Вечерня.Утреня со славословием.1-й час."
+      - day   : 1&nbsp;ср.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Мц. Гликерии девы и с нею мч. Лаодикия, стража темничного. о. Игорь "
+ - description : "Обретение мощей святителя Московского Алексия, всея России чудотворца. о.Геннадий "
    services    :
-      - day   : 25&nbsp;ср.
+      - day   : 1&nbsp;ср.
         time  : '18.00'
-        title : "Вечерня.Утреня.1-й час"
-      - day   : 26&nbsp;чт.
+        title : "Вечерня.Утреня с полиелеем.1-й час"
+      - day   : 2&nbsp;чт.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Мц. Гликерии девы и с нею мч. Лаодикия, стража темничного. о.Игорь"
+ - description : "Владимирской иконы Божией Матери. Равноапп. Константина и Елены. о.Геннадий"
    services    :
-      - day   : 26&nbsp;чт.
+      - day   : 2&nbsp;чт.
         time  : '18.00'
-        title : "Вечерня. Утреня.1-й час"
-      - day   : 27&nbsp;пт.
+        title : "Вечерня. Утреня с полиелеем.1-й час"
+      - day   : 3&nbsp;пт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Блгв. царевича Димитрия, Угличского и Московского. о. Игорь"
+ - description : "Мч. Василиска. о. Геннадий"
    services    :
-      - day   : 27&nbsp;пт.
+      - day   : 3&nbsp;пт.
         time  : '18.00'
         title : "Великая вечерня.Утреня.1-й час."
-      - day   : 28&nbsp;сб.
+      - day   : 4&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
- - description : "НЕДЕЛЯ 5-Я ПО ПАСХЕ, о самаряныне. Все служащие"
+ - description : "НЕДЕЛЯ 6-Я ПО ПАСХЕ О СЛЕПОМ. Все служащие"
    services    :
-      - day   : 28&nbsp;сб.
+      - day   : 4&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 29&nbsp;вск.
+      - day   : 5&nbsp;вск.
         time  : '9.00'
         title : "Часы.Литургия"
