@@ -51,7 +51,7 @@ timetable:
    services    :
       - day   : 16&nbsp;сб.
         time  : '18.00'
-        title : "Вечерня.Утреня.1-й час"
+        title : "Всенощное бдение"
       - day   : 17&nbsp;вск.
         time  : '9.00'
         title : "Часы. Литургия"
