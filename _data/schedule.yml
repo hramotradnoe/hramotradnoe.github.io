@@ -1,4 +1,4 @@
-period: Ноябрь 2016
+period: ноябрь 2016
 link: "https://docs.google.com/document/d/1YAsraKdKCrtiEcFgZXjy4DP5GmuBjI5RAHBRB9P0SW8/edit"
 timetable:
  - description : "Прор. Иоиля. о. Игорь"
@@ -38,7 +38,7 @@ timetable:
       - day   : 4&nbsp;вск.
         time  : '9.30'
         title : "Часы. Литургия"
-- description : "ДИМИТРИЕВСКАЯ РОДИТЕЛЬСКАЯ СУББОТА.Поминовение усопших . все служащие"
+ - description : "ДИМИТРИЕВСКАЯ РОДИТЕЛЬСКАЯ СУББОТА.Поминовение усопших . все служащие"
    services    :
       - day   : 4&nbsp;пт.
         time  : '18.00'
