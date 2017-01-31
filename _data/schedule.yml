@@ -1,59 +1,59 @@
-period: январь 2017
-link: "https://docs.google.com/document/d/1_o-GxFoLOUeIGDYI_TAx00IJBXjGjPG1RDHQ4mCoUw4/edit"
+period: февраль 2017
+link: "https://docs.google.com/document/d/1obwdVfB3sr8Ir-t97x6eoSNr5KiJ3Zi8HUk77FuJE6c/edit"
 timetable:
- - description : "Свт. Григория, еп. Нисского. Свт. Феофана, Затворника Вышенского. о. Игорь"
+ - description : "Прп. Антония Великого. о. Александр"
    services    :
-      - day   : 23&nbsp;пн.
+      - day   : 30&nbsp;пн.
         time  : '8.00'
         title : "Часы.Литургия."
- - description : "Прп. Феодосия Великого, общих житий начальника. о. Игорь"
+ - description : "Прпп. схимонаха Кирилла и схимонахини Марии, родителей прп. Сергия Радонежского. о. Александр"
    services    :
-      - day   : 23&nbsp;пн.
+      - day   : 30&nbsp;пн.
         time  : '18.00'
         title : "Вечерня.Утреня.1-й час."
-      - day   : 24&nbsp; вт.
+      - day   : 31&nbsp; вт.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Мц. Татианы. о. Игорь."
+ - description : "Прп. Макария Великого. о. Александр."
    services    :
-      - day   : 24&nbsp;вт.
+      - day   : 31&nbsp;вт.
         time  : '18.00'
         title : "Вечерня.Утреня.1-й час."
-      - day   : 25&nbsp;ср.
+      - day   : 1&nbsp;ср.
         time  : '8.00'
         title : "Часы.Литургия"
- - description : "Мчч. Ермила и Стратоника.Преподобных отец, в Синае и Раифе избиенных. о. Игорь."
+ - description : "Прп. Евфимия Великого. о. Александр."
    services    :
-      - day   : 25&nbsp;ср.
+      - day   : 1&nbsp;ср.
         time  : '18.00'
         title : "Вечерня.Утреня.1-й час"
-      - day   : 26&nbsp;чт.
+      - day   : 2&nbsp;чт.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Отдание праздника Богоявления.Св. равноап. Нины, просветительницы Грузии.  о. Игорь"
+ - description : "иконы Божией Матери «Отрада» или «Утешение».  Все служащие"
    services    :
-      - day   : 26&nbsp;чт.
-        time  : '18.00'
-        title : "Вечерня.Утреня с полиелеем. 1-й час"
-      - day   : 27&nbsp;пт.
-        time  : '8.00'
-        title : "Часы. Литургия"
- - description : "Прпп. Павла Фивейского и Иоанна Кущника. о. Игорь"
-   services    :
-      - day   : 27&nbsp;пт.
-        time  : '18.00'
-        title : "Вечерня.Утреня.1-й час."
-      - day   : 28&nbsp;сб.
-        time  : '9.00'
-        title : "Часы.Литургия"
- - description : "Неделя 32-я по Пятидесятнице, Поклонение честным веригам ап. Павла. Все служащие"
-   services    :
-      - day   : 28&nbsp;сб.
+      - day   : 2&nbsp;чт.
         time  : '18.00'
         title : "Всенощное бдение"
-      - day   : 29&nbsp;вск.
+      - day   : 3&nbsp;пт.
+        time  : '8.00'
+        title : "Часы. Литургия"
+ - description : "Ап. Тимофей.Прмч. Анастасия Персянина. о. Александр"
+   services    :
+      - day   : 3&nbsp;пт.
+        time  : '18.00'
+        title : "Вечерня.Утреня.1-й час."
+      - day   : 4&nbsp;сб.
+        time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "Неделя о мытаре и фарисее, Собор новомучеников и исповедников Церкви Русской. Все служащие"
+   services    :
+      - day   : 4&nbsp;сб.
+        time  : '18.00'
+        title : "Всенощное бдение"
+      - day   : 5&nbsp;вск.
         time  : '7.00'
         title : "Часы. Литургия"
-      - day   : 29&nbsp;вск.
+      - day   : 5&nbsp;вск.
         time  : '9.30'
         title : "Часы. Литургия"
