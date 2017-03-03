@@ -6,12 +6,12 @@ timetable:
       - day   : 2&nbsp;чт.
         time  : '18.00'
         title : "Утреня.1-й час."
-      - day   : 38&nbsp; пт.
+      - day   : 3&nbsp; пт.
         time  : '8.00'
         title : "Часы.  Изобразительны.Литургия Преждеосвященных Даров"
  - description : "Вмч. Феодора Тирона. о. Геннадий."
    services    :
-      - day   : 38&nbsp;пт.
+      - day   : 3&nbsp;пт.
         time  : '18.00'
         title : "Утреня.1-й час."
       - day   : 4&nbsp;сб.
