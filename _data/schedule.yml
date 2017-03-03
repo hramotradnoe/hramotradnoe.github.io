@@ -1,24 +1,30 @@
 period: февраль 2017
-link: "https://docs.google.com/document/d/1obwdVfB3sr8Ir-t97x6eoSNr5KiJ3Zi8HUk77FuJE6c/edit"
+link: "https://docs.google.com/document/d/1dcGNKXESDps852gYZh6vG8VLwok2d9QO4jyD7e0HYLQ/edit"
 timetable:
- - description : "Равноап. Кирилла, учителя Словенского. о. Геннадий"
+ - description : "Свт. Льва, папы Римского. о. Геннадий"
    services    :
-      - day   : 27&nbsp;пн.
-        time  : '8.00'
-        title : "Утреня.Часы.  Изобразительны.Вечерня."
- - description : "Ап. от 70-ти Онисима. о. Геннадий"
-   services    :
-      - day   : 27&nbsp;пн.
+      - day   : 2&nbsp;чт.
         time  : '18.00'
-        title : "Великое повечерие с чтением покаянного канона Андрея Критского."
-      - day   : 28&nbsp; вт.
+        title : "Утреня.1-й час."
+      - day   : 38&nbsp; пт.
         time  : '8.00'
-        title : "Утреня.Часы.Изобразительны.Вечерня"
- - description : "Мчч. Памфила пресвитера, Валента диакона. о. Геннадий."
+        title : "Часы.  Изобразительны.Литургия Преждеосвященных Даров"
+ - description : "Вмч. Феодора Тирона. о. Геннадий."
    services    :
-      - day   : 28&nbsp;вт.
+      - day   : 38&nbsp;пт.
         time  : '18.00'
-        title : "Великое повечерие с чтением покаянного канона Андрея Критского."
-      - day   : 1&nbsp;ср.
-        time  : '8.00'
-        title : "Утреня. Часы.  Изобразительны.Литургия Преждеосвященных Даров"
+        title : "Утреня.1-й час."
+      - day   : 4&nbsp;сб.
+        time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "Неделя 1-я Великого поста. Торжество Православия. Все служащие"
+   services    :
+      - day   : 4&nbsp;сб.
+        time  : '18.00'
+        title : "Всенощное бдение."
+      - day   : 5&nbsp;вск.
+        time  : '7.00'
+        title : "Часы.Литургия."
+      - day   : 5&nbsp;вск.
+        time  : '9.30'
+        title : "Часы.Литургия."
