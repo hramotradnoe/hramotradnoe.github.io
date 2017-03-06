@@ -1,7 +1,7 @@
 period: март 2017
 link: "https://docs.google.com/document/d/1dcGNKXESDps852gYZh6vG8VLwok2d9QO4jyD7e0HYLQ/edit"
 timetable:
-- description : "Прп. Тимофея в Символех. о. Игорь"
+- description  : "Прп. Тимофея в Символех. о. Игорь"
    services    :
       - day   : 6&nbsp; пн.
         time  : '8.00'
