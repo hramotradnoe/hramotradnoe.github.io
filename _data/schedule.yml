@@ -46,22 +46,22 @@ timetable:
       - day   : 14&nbsp;пт.
         time  : '18.00'
         title : "Утреня с чином погребения Плащаницы."
-      - day   : 8&nbsp;сб.
+      - day   : 15&nbsp;сб.
         time  : '8.00'
         title : "Часы.Литургия"
  - description : "СВЕТЛОЕ ХРИСТОВО ВОСКРЕСЕНИЕ ПАСХА Все служащие"
    services    :
-      - day   : 8&nbsp;сб.
+      - day   : 15&nbsp;сб.
         time  : '23.20'
         title : "Полунощница."
-      - day   : 9&nbsp;вск.
+      - day   : 16&nbsp;вск.
         time  : '0.00'
         title : "Пасхальная утреня.Литургия"
-      - day   : 9&nbsp;вск.
+      - day   : 16&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия."
  - description : "СВЕТЛОЕ ХРИСТОВО ВОСКРЕСЕНИЕ ПАСХА Все служащие"
    services    :
-      - day   : 9&nbsp;вск.
+      - day   : 16&nbsp;вск.
         time  : '18.00'
         title : "Пасхальная Вечерня."      
