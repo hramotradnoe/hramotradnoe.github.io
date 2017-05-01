@@ -1,56 +1,56 @@
 period: Апрель 2017
 link: "https://docs.google.com/document/d/1gokNB4OyK44DNShklvPwPInW6NHBZs9x0LQ9zHdw7is/edit"
 timetable:
- - description : "Сщмч. Антипы, епископа Пергама Ассийского о. Александр"
+ - description : "Прп. Иоанна о. Геннадий"
    services    :
-      - day   : 24&nbsp; пн.
-        time  : '8.00'
+      - day   : 01&nbsp; пн.
+        time  : '9.00'
         title : "Часы. Литургия"
- - description : "Радоница. Поминовение усопших о. Александр"
+ - description : "Блаж.  Матроны Московской о. Геннадий"
    services    :
-      - day   : 24&nbsp;пн.
+      - day   : 1&nbsp;пн.
         time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час."
-      - day   : 25&nbsp; вт.
+        title : "Вечерня. Утреня с полиелеем. 1-й час."
+      - day   : 2&nbsp; вт.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Сщмч. Артемона о. Александр"
+ - description : "Прп. Феодора Трихины о. Геннадий"
    services    :
-      - day   : 25&nbsp;вт.
+      - day   : 2&nbsp;вт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 26&nbsp; ср.
+      - day   : 3&nbsp; ср.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Свт. Мартина исповедника. о. Александр"
+ - description : "Сщмч. Ианнуария епископа и иже с ним. о. Геннадий"
    services    :
-      - day   : 26&nbsp;ср.
+      - day   : 3&nbsp;ср.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 27&nbsp; чт.
+      - day   : 4&nbsp; чт.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Апп. от 70-ти Аристарха, Пуда и Трофима. о. Александр."
+ - description : "Прп. Феодора Сикеота. о. Геннадий."
    services    :
-      - day   : 27&nbsp;чт.
+      - day   : 4&nbsp;чт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 28&nbsp;пт.
+      - day   : 5&nbsp;пт.
         time  : '8.00'
         title : "Часы. Литургия"  
- - description : "Мцц. Агапии, Ирины и Хионии. о. Александр."
+ - description : "Иконы Божией Матери «Иверской». Вмч. Георгия Победоносца. о. Валерий."
    services    :
-      - day   : 28&nbsp;пт.
+      - day   : 5&nbsp;пт.
         time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час."
-      - day   : 29&nbsp;сб.
+        title : "Вечерня. Утреня с полиелеем. 1-й час."
+      - day   : 6&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
- - description : "Неделя 3-я по Пасхе, святых жен - мироносиц.Все служащие"
+ - description : "Неделя 4-я по Пасхе, о расслабленном. Все служащие"
    services    :
-      - day   : 29&nbsp;сб.
+      - day   : 6&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 30&nbsp;вск.
+      - day   : 7&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия."  
