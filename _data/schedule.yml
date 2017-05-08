@@ -3,12 +3,12 @@ link: "https://docs.google.com/document/d/1t8COHfB2F9REH8HYYbm7ABme1RU4pObpkKfO8
 timetable:
  - description : "Апостола и евангелиста Марка о. Игорь"
    services    :
-      - day   : 08&nbsp; пн.
+      - day   : 8&nbsp; пн.
         time  : '9.00'
         title : "Часы. Литургия"
  - description : "Сщмч. Василия, епископа Амасийского. Поминовение православных воинов о. Игорь"
    services    :
-      - day   : 1&nbsp;пн.
+      - day   : 8&nbsp;пн.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
       - day   : 9&nbsp; вт.
