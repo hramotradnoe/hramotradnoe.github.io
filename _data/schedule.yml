@@ -1,51 +1,51 @@
 period: Июнь 2017
-link: "https://docs.google.com/document/d/1p32amunoJ5UXW7cqkwWqI36JzIKXjpGWfArCFQVy9Uk/edit?usp=sharing"
+link: "https://docs.google.com/document/d/1Qj7mg-tUEDtVlbjS0QpTUFWGrn9-FKcU72P1KtpVvEg/edit"
 timetable:
- - description : "Прп. Евфросинии, вел. кн. Московской. о. Игорь"
+ - description : "Блаж. Ксении Петербургской. о. Александр"
    services    :
-      - day   : 29&nbsp;пн.
+      - day   : 5&nbsp;пн.
         time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час."
-      - day   : 30&nbsp; вт.
+        title : "Вечерня. Утреня  с полиелеем. 1-й час."
+      - day   : 6&nbsp; вт.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Мч. Феодота Анкирского и мцц. семи дев. о. Игорь"
+ - description : "Третье обретение главы Предтечи и Крестителя Господня Иоанна. о. Александр"
    services    :
-      - day   : 30&nbsp;вт.
+      - day   : 6&nbsp;вт.
+        time  : '18.00'
+        title : "Вечерня. Утреня с полиелеем. 1-й час."
+      - day   : 7&nbsp; ср.
+        time  : '8.00'
+        title : "Часы. Литургия"
+ - description : "Апп. от 70-ти Карпа и Алфея. о. Александр"
+   services    :
+      - day   : 7&nbsp;ср.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 31&nbsp; ср.
+      - day   : 8&nbsp; чт.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Блгв. вел. кн. Димитрия Донского. о. Игорь"
+ - description : "Свщм. Ферапонта епископа Сардийского. о. Александр."
    services    :
-      - day   : 31&nbsp;ср.
+      - day   : 8&nbsp;чт.
         time  : '18.00'
-        title : "Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 1&nbsp; чт.
-        time  : '8.00'
-        title : "Часы. Литургия"
- - description : "Обретение мощей святителя Московского Алексия, всея России чудотворца. о. Игорь."
-   services    :
-      - day   : 1&nbsp;чт.
-        time  : '18.00'
-        title : "Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 2&nbsp;пт.
+        title : "Вечерня. Утреня. 1-й час."
+      - day   : 9&nbsp;пт.
         time  : '8.00'
         title : "Часы. Литургия"  
- - description : "ТРОИЦКАЯ РОДИТЕЛЬСКАЯ СУББОТА. Все служащие."
+ - description : "Прп. Никиты исповедника. Александр."
    services    :
-      - day   : 2&nbsp;пт.
+      - day   : 9&nbsp;пт.
         time  : '18.00'
-        title : "Утреня с парастасом. 1-й час."
-      - day   : 3&nbsp;сб.
+        title : "Вечерня. Утреня. 1-й час."
+      - day   : 10&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
- - description : "ДЕНЬ СВЯТОЙ ТРОИЦЫ. ПЯТИДЕСЯТНИЦА. Все служащие"
+ - description : "НЕДЕЛЯ 1-Я ПО ПЯТИДЕСЯТНИЦЕ, ВСЕХ СВЯТЫХ Свт. Луки исповедника, архиепископа Симферопольского. Все служащие"
    services    :
-      - day   : 3&nbsp;сб.
+      - day   : 10&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 48&nbsp;вск.
+      - day   : 118&nbsp;вск.
         time  : '9.30'
-        title : "Часы.Литургия. Вечерня"  
+        title : "Часы.Литургия"  
