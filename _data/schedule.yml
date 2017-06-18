@@ -1,51 +1,56 @@
 period: Июнь 2017
 link: "https://docs.google.com/document/d/1Qj7mg-tUEDtVlbjS0QpTUFWGrn9-FKcU72P1KtpVvEg/edit"
 timetable:
- - description : "Мч. Ермея Мч. о. Геннадий"
+ - description : "Прп. Иллариона Новаго. о. Игорь"
    services    :
-      - day   : 12&nbsp;пн.
-        time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час."
-      - day   : 13&nbsp; вт.
+      - day   : 19&nbsp; пн.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Иустина Философа о. Геннадий"
+ - description : "Сщмч. Феодота епископа Анкирского. о. Игорь"
    services    :
-      - day   : 13&nbsp;вт.
+      - day   : 19&nbsp;пн.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 14&nbsp; ср.
+      - day   : 20&nbsp; вт.
+        time  : '8.00'
+        title : "Часы.  Литургия"
+ - description : "Вмч. Феодора Стратилата о. Игорь"
+   services    :
+      - day   : 20&nbsp;вт.
+        time  : '18.00'
+        title : "Вечерня. Утреня. 1-й час."
+      - day   : 21&nbsp; ср.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : " Свт. Никифора исп, патриарха Константинопольского. о. Александр"
+ - description : "Прп. Кирилла, игумена Белоезерского. о. Игорь"
    services    :
-      - day   : 14&nbsp;ср.
+      - day   : 21&nbsp;ср.
         time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час."
-      - day   : 15&nbsp; чт.
+        title : "Вечерня. Утреня со славословием. 1-й час."
+      - day   : 22&nbsp; чт.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Мчч. Лукиллиана, Клавдия и иже с ними. о. Геннадий."
+ - description : "Обретение мощей святителя Василия, епископа Рязанского. о. Игорь."
    services    :
-      - day   : 15&nbsp;чт.
+      - day   : 22&nbsp;чт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 16&nbsp;пт.
+      - day   : 23&nbsp;пт.
         time  : '8.00'
         title : "Часы. Литургия"  
- - description : "Прп. Мефодия, игумена Пешношского. о. Геннадий."
+ - description : "Апостолов Варфоломея и Варнавы. о. Игорь."
    services    :
-      - day   : 16&nbsp;пт.
+      - day   : 23&nbsp;пт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 17&nbsp;сб.
+      - day   : 24&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
- - description : "НЕДЕЛЯ 2-Я ПО ПЯТИДЕСЯТНИЕ, Всех святых, в земле Русской просиявших. Все служащие"
+ - description : "НЕДЕЛЯ 3-Я ПО ПЯТИДЕСЯТНИЦЕ. Все служащие"
    services    :
-      - day   : 17&nbsp;сб.
+      - day   : 24&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 18&nbsp;вск.
+      - day   : 25&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия"  
