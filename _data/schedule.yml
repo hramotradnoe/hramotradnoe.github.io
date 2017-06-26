@@ -1,56 +1,56 @@
 period: Июнь 2017
 link: "https://docs.google.com/document/d/1Qj7mg-tUEDtVlbjS0QpTUFWGrn9-FKcU72P1KtpVvEg/edit"
 timetable:
- - description : "Прп. Иллариона Новаго. о. Игорь"
+ - description : "Мц.  Акилины. о. Александр"
    services    :
-      - day   : 19&nbsp; пн.
+      - day   : 26&nbsp; пн.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Сщмч. Феодота епископа Анкирского. о. Игорь"
+ - description : "Свт. Мефодия, патриарха Константинопольского. о. Александр"
    services    :
-      - day   : 19&nbsp;пн.
+      - day   : 26&nbsp;пн.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 20&nbsp; вт.
+      - day   : 27&nbsp; вт.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Вмч. Феодора Стратилата о. Игорь"
+ - description : "Свт. Ионы, митр. Московского и всея России чудотворца о. Александр"
    services    :
-      - day   : 20&nbsp;вт.
+      - day   : 27&nbsp;вт.
         time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час."
-      - day   : 21&nbsp; ср.
+        title : "Вечерня. Утреня с полиелеем. 1-й час."
+      - day   : 28&nbsp; ср.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Прп. Кирилла, игумена Белоезерского. о. Игорь"
+ - description : "Перенесение мощей свт. Феофана, Затворника Вышенского. о. Александр"
    services    :
-      - day   : 21&nbsp;ср.
+      - day   : 28&nbsp;ср.
         time  : '18.00'
-        title : "Вечерня. Утреня со славословием. 1-й час."
-      - day   : 22&nbsp; чт.
+        title : "Вечерня. Утреня с полиелеем. 1-й час."
+      - day   : 29&nbsp; чт.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Обретение мощей святителя Василия, епископа Рязанского. о. Игорь."
+ - description : "Мчч. Мануила, Савела и Исмаила. о. Александр."
    services    :
-      - day   : 22&nbsp;чт.
+      - day   : 29&nbsp;чт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 23&nbsp;пт.
+      - day   : 30&nbsp;пт.
         time  : '8.00'
         title : "Часы. Литургия"  
- - description : "Апостолов Варфоломея и Варнавы. о. Игорь."
+ - description : "Боголюбской иконы Божией Матери. о. Александр."
    services    :
-      - day   : 23&nbsp;пт.
+      - day   : 30&nbsp;пт.
         time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час."
-      - day   : 24&nbsp;сб.
+        title : "Вечерня. Утреня с полиелеем. 1-й час."
+      - day   : 1&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
  - description : "НЕДЕЛЯ 3-Я ПО ПЯТИДЕСЯТНИЦЕ. Все служащие"
    services    :
-      - day   : 24&nbsp;сб.
+      - day   : 1&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 25&nbsp;вск.
+      - day   : 2&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия"  
