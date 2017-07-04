@@ -1,56 +1,56 @@
-period: Июнь 2017
-link: "https://docs.google.com/document/d/1Qj7mg-tUEDtVlbjS0QpTUFWGrn9-FKcU72P1KtpVvEg/edit"
+period: Июль 2017
+link: "https://docs.google.com/document/d/1-tB8hXLQ9hpvvfb7ntWVSvgnbeLSsFXPxotfsQ2d2Ho/edit?usp=sharing"
 timetable:
- - description : "Мц.  Акилины. о. Александр"
+ - description : "Сщмч. Мефодия, епископа Патарского. о. Геннадий"
    services    :
-      - day   : 26&nbsp; пн.
+      - day   : 3&nbsp; пн.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Свт. Мефодия, патриарха Константинопольского. о. Александр"
+ - description : "Обретение мощей прп. Максима Грека. о. Геннадий"
    services    :
-      - day   : 26&nbsp;пн.
+      - day   : 3&nbsp;пн.
         time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час."
-      - day   : 27&nbsp; вт.
+        title : "Вечерня. Утреня со славословием. 1-й час."
+      - day   : 4&nbsp; вт.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Свт. Ионы, митр. Московского и всея России чудотворца о. Александр"
+ - description : "Сщмч. Евсевия, еп. Самосатского. о. Геннадий"
    services    :
-      - day   : 27&nbsp;вт.
-        time  : '18.00'
-        title : "Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 28&nbsp; ср.
-        time  : '8.00'
-        title : "Часы. Литургия"
- - description : "Перенесение мощей свт. Феофана, Затворника Вышенского. о. Александр"
-   services    :
-      - day   : 28&nbsp;ср.
-        time  : '18.00'
-        title : "Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 29&nbsp; чт.
-        time  : '8.00'
-        title : "Часы. Литургия"
- - description : "Мчч. Мануила, Савела и Исмаила. о. Александр."
-   services    :
-      - day   : 29&nbsp;чт.
+      - day   : 4&nbsp;вт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 30&nbsp;пт.
+      - day   : 5&nbsp; ср.
+        time  : '8.00'
+        title : "Часы. Литургия"
+ - description : "Владимирской иконы Божией Матери. о. Геннадий"
+   services    :
+      - day   : 5&nbsp;ср.
+        time  : '18.00'
+        title : "Вечерня. Утреня с полиелеем. 1-й час."
+      - day   : 6&nbsp; чт.
+        time  : '8.00'
+        title : "Часы. Литургия"
+ - description : "Блгвв. кнн. Петра и Февронии Муромских. Прмц. Февронии. о. Геннадий."
+   services    :
+      - day   : 6&nbsp;чт.
+        time  : '18.00'
+        title : "Всенощное бдение. 1-й час."
+      - day   : 7&nbsp;пт.
         time  : '8.00'
         title : "Часы. Литургия"  
- - description : "Боголюбской иконы Божией Матери. о. Александр."
+ - description : "Рождество честного славного Пророка, Предтечи и Крестителя Иоанна. о. Геннадий."
    services    :
-      - day   : 30&nbsp;пт.
+      - day   : 7&nbsp;пт.
         time  : '18.00'
-        title : "Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 1&nbsp;сб.
+        title : "Всенощное бдение"
+      - day   : 8&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
- - description : "НЕДЕЛЯ 3-Я ПО ПЯТИДЕСЯТНИЦЕ. Все служащие"
+ - description : "Неделя 5-я по Пятидесятнице, Тихвинской иконы Божией Матери Прп. Давида Солунского. Все служащие"
    services    :
-      - day   : 1&nbsp;сб.
+      - day   : 8&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 2&nbsp;вск.
+      - day   : 9&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия"  
