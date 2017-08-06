@@ -1,11 +1,11 @@
 period: Август 2017
 link: "https://docs.google.com/document/d/1TQaJYcOGnvr6kM2m36ltmD5eGERtZ3sO-uuoZjTRGhs/edit"
 timetable:
-- description : "Успение прав. Анны, матери Пресвятой Богородицы"
-  services    :
-     - day   : 7&nbsp; пн.
-       time  : '8.00'
-       title : "Литургия"
+ - description : "Успение прав. Анны, матери Пресвятой Богородицы"
+   services    :
+      - day   : 7&nbsp; пн.
+        time  : '8.00'
+        title : "Литургия"
  - description : "Сщмч. Ермолая и иже с ним. Прп. Моисея Угрина, Печерского, в Ближних Пещерах"
    services    :
       - day   : 7&nbsp;пн.
