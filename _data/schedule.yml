@@ -5,7 +5,7 @@ timetable:
    services    :
       - day   : 7&nbsp; пн.
         time  : '8.00'
-        title : "Литургия"
+        title : "Часы. Литургия"
  - description : "Сщмч. Ермолая и иже с ним. Прп. Моисея Угрина, Печерского, в Ближних Пещерах"
    services    :
       - day   : 7&nbsp;пн.
