@@ -1,56 +1,56 @@
 period: Август 2017
 link: "https://docs.google.com/document/d/1TQaJYcOGnvr6kM2m36ltmD5eGERtZ3sO-uuoZjTRGhs/edit"
 timetable:
- - description : "Обретение мощей преподобного Серафима Саровского. Все служащие"
+- description : "Успение прав. Анны, матери Пресвятой Богородицы"
+  services    :
+     - day   : 7&nbsp; пн.
+       time  : '8.00'
+       title : "Литургия"
+ - description : "Сщмч. Ермолая и иже с ним. Прп. Моисея Угрина, Печерского, в Ближних Пещерах"
    services    :
-      - day   : 31&nbsp;пн.
+      - day   : 7&nbsp;пн.
         time  : '18.00'
-        title : "Всенощное бдение."
-      - day   : 1&nbsp; вт.
+        title : "Вечерня. Утреня. 1-й час."
+      - day   : 8&nbsp; вт.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Пророка Илии"
+ - description : "Вмч. и целителя Пантелеимона"
    services    :
-      - day   : 1&nbsp;вт.
+      - day   : 8&nbsp;вт.
         time  : '18.00'
-        title : "Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 2&nbsp; ср.
+        title : "Всенощное бдение."
+      - day   : 9&nbsp; ср.
         time  : '8.00'
         title : "Литургия"
- - description : "Пророка Иезекииля."
+ - description : "Свт. Питирима, еп. Тамбовского."
    services    :
-      - day   : 2&nbsp;ср.
+      - day   : 9&nbsp;ср.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 3&nbsp; чт.
+      - day   : 10&nbsp; чт.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Мироносицы Марии Магдалины."
+ - description : "Мч. Каллиника."
    services    :
-      - day   : 3&nbsp;чт.
+      - day   : 10&nbsp;чт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 4&nbsp;пт.
+      - day   : 11&nbsp;пт.
         time  : '8.00'
         title : "Часы. Литургия"  
- - description : "Почаевской иконы Божией Матери. Иконы Божией Матери «Всех скорбящих Радость» (с грошиками)."
+ - description : "Мч. Иоанна Воина."
    services    :
-      - day   : 4&nbsp;пт.
+      - day   : 11&nbsp;пт.
         time  : '18.00'
-        title : "Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 5&nbsp;сб.
+        title : "Вечерня. Утреня. 1-й час."
+      - day   : 12&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
- - description : "НЕДЕЛЯ 9-Я ПО ПЯТИДЕСЯТНИЦЕ Мчч. Блгвв. кнн. Бориса и Глеба, во Святом Крещении Романа и Давида."
+ - description : "НЕДЕЛЯ 10-Я ПО ПЯТИДЕСЯТНИЦЕ Предпразднство Происхождения Честных Древ Животворящего Креста Господня."
    services    :
-      - day   : 5&nbsp;сб.
+      - day   : 12&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 6&nbsp;вск.
+      - day   : 13&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия"
- - description : "Успение прав. Анны, матери Пресвятой Богородицы"
-   services    :
-      - day   : 7&nbsp; пн.
-        time  : '8.00'
-        title : "Часы.  Литургия"
