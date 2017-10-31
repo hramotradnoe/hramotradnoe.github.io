@@ -1,59 +1,59 @@
-period: Октябрь 2017
-link: "https://docs.google.com/document/d/17LMfpCz71EsBbmxwTFctCGEV6x20EP5gcxc9xYEmCvQ/edit"
+period: Ноябрь 2017
+link: "https://docs.google.com/document/d/1bbABWkTRgn6V07qjwdSB7Ww7bxhk_dH1v8s2XaOAYUo/edit"
 timetable:
- - description : "Прп. Амвросия Оптинского."
+ - description : "Прор. Осии. Прмч. Андрея Критского."
    services    :
-      - day   : 23&nbsp; пн.
+      - day   : 30&nbsp; пн.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Ап. Филиппа, единого от семи диаконов.Собор преподобных Оптинских святых."
+ - description : "Апостола и евангелиста Луки. Обретение мощей прп. Иосифа, игумена Волоцкого, чудотворца."
    services    :
-      - day   : 23&nbsp;пн.
+      - day   : 30&nbsp;пн.
         time  : '18.00'
-        title : "Вечерня. Утреня. 1-й час."
-      - day   : 24&nbsp; вт.
+        title : "Вечерня. Утреня с полиелеем. 1-й час."
+      - day   : 31&nbsp; вт.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Мчч. Прова, Тараха и Андроника. Прп. Симеона Нового Богослова."
+ - description : "Прор. Иоиля."
    services    :
-      - day   : 24&nbsp;вт.
+      - day   : 31&nbsp;вт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 25&nbsp; ср.
+      - day   : 1&nbsp; ср.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : "Иверской иконы Божией Матери. "
+ - description : "Вмч. Артемия"
    services    :
-      - day   : 25&nbsp;ср.
+      - day   : 1&nbsp;ср.
         time  : '18.00'
-        title : "Вечерня.Утреня с полиелеем.1-й час."
-      - day   : 26&nbsp; чт.
+        title : "Вечерня.Утреня.1-й час."
+      - day   : 2&nbsp; чт.
         time  : '8.00'
         title : "Часы. Литургия"
- - description : " Мчч. Назария, Гервасия. Протасия, Келсия. "
+ - description : " Прп. Иллариона Великого "
    services    :
-      - day   : 26&nbsp;чт.
+      - day   : 2&nbsp;чт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 27&nbsp;пт.
+      - day   : 3&nbsp;пт.
         time  : '8.00'
         title : "Часы. Литургия"  
- - description : "Димитриевская родительская суббота"
+ - description : "Празднование Казанской иконы Божией Матери"
    services    :
-      - day   : 27&nbsp;пт.
-        time  : '18.00'
-        title : "Вечерня. Утреня с парастасом. 1-й час."
-      - day   : 28&nbsp;сб.
-        time  : '9.00'
-        title : "Часы.Литургия"
- - description : "Неделя 21-я по Пятидесятнице, Мч. Лонгина сотника, иже при Кресте Господни"
-   services    :
-      - day   : 28&nbsp;сб.
+      - day   : 3&nbsp;пт.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 29&nbsp;вск.
+      - day   : 4&nbsp;сб.
+        time  : '9.00'
+        title : "Часы.Литургия"
+ - description : "Неделя 22-я по Пятидесятнице. Апостола Иакова, брата Господня по плоти. Иконы Божией Матери « Всех скорбящих Радость»"
+   services    :
+      - day   : 4&nbsp;сб.
+        time  : '18.00'
+        title : "Всенощное бдение."
+      - day   : 5&nbsp;вск.
         time  : '7.00'
         title : "Часы.Литургия"
-      - day   : 29&nbsp;вск.
+      - day   : 5&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия"
