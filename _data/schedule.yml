@@ -1,59 +1,54 @@
 period: Ноябрь 2017
 link: "https://docs.google.com/document/d/1bbABWkTRgn6V07qjwdSB7Ww7bxhk_dH1v8s2XaOAYUo/edit"
 timetable:
- - description : "Иконы Божией Матери « Всех скорбящих Радость»."
+ - description : "Бессребренников и чудотворцев Космы и Дамиана Асийских."
    services    :
-      - day   : 6&nbsp; пн.
-        time  : '8.00'
-        title : "Часы. Литургия"
- - description : "Мчч. Маркиана и Мартирия."
-   services    :
-      - day   : 6&nbsp;пн.
+      - day   : 13&nbsp;пн.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 7&nbsp; вт.
+      - day   : 14&nbsp; вт.
         time  : '8.00'
         title : "Часы.  Литургия"
- - description : "Вмч. Димитрия Солунского."
+ - description : "Мчч. Акиндина, Пигасия, Аффония, Елпидифора и Анемподиста."
    services    :
-      - day   : 7&nbsp;вт.
-        time  : '18.00'
-        title : "Вечерня. Утреня  с полиелеем. 1-й час."
-      - day   : 8&nbsp; ср.
-        time  : '8.00'
-        title : "Часы. Литургия"
- - description : "Мч. Нестора Солунского"
-   services    :
-      - day   : 8&nbsp;ср.
-        time  : '18.00'
-        title : "Вечерня.Утреня.1-й час."
-      - day   : 9&nbsp; чт.
-        time  : '8.00'
-        title : "Часы. Литургия"
- - description : "Свт. Димитрия Ростовского. Прп. Иова, игумена Почаевского"
-   services    :
-      - day   : 9&nbsp;чт.
-        time  : '18.00'
-        title : "Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 10&nbsp;пт.
-        time  : '8.00'
-        title : "Часы. Литургия"  
- - description : "Прмц. Анастасии Римляныни."
-   services    :
-      - day   : 10&nbsp;пт.
+      - day   : 14&nbsp;вт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 11&nbsp;сб.
+      - day   : 15&nbsp; ср.
+        time  : '8.00'
+        title : "Часы. Литургия"
+ - description : "Мчч. Акепсима епископа, Иосифа пресвитера и Аифала диакона"
+   services    :
+      - day   : 15&nbsp;ср.
+        time  : '18.00'
+        title : "Вечерня.Утреня.1-й час."
+      - day   : 16&nbsp; чт.
+        time  : '8.00'
+        title : "Часы. Литургия"
+ - description : "Прп. Иоанникия Великого"
+   services    :
+      - day   : 16&nbsp;чт.
+        time  : '18.00'
+        title : "Вечерня. Утреня. 1-й час."
+      - day   : 17&nbsp;пт.
+        time  : '8.00'
+        title : "Часы. Литургия"  
+ - description : "Свт. Тихона, патриарха Московского и всея Руси."
+   services    :
+      - day   : 17&nbsp;пт.
+        time  : '18.00'
+        title : "Вечерня. Утреня  с полиелеем. 1-й час."
+      - day   : 18&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
- - description : "Неделя 23-я по Пятидесятнице Сщмч. Зиновия, еп. Егейского, и сестры его мц. Зиновии"
+ - description : "Неделя 24-я по Пятидесятнице. Прп. Варлаама Хутынского"
    services    :
-      - day   : 11&nbsp;сб.
+      - day   : 18&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 12&nbsp;вск.
+      - day   : 19&nbsp;вск.
         time  : '7.00'
         title : "Часы.Литургия"
-      - day   : 12&nbsp;вск.
+      - day   : 19&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия"
