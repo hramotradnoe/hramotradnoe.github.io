@@ -120,7 +120,7 @@ timetable:
         time  : '9.30'
         title : "Часы.Литургия"  
  - description : "Прп. Серафима Саровского."            
-       services    :
+   services    :
       - day   : 14&nbsp;вск.
         time  : '18.00'
         title : "Вечерня. Утреня с полиелеем. 1-й час."
