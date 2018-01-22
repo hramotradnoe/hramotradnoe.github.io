@@ -234,7 +234,7 @@ timetable:
       - day   : 28&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия."  
-- description : "Прп. Антония Великого."
+ - description : "Прп. Антония Великого."
    services    :
       - day   : 29&nbsp;пн.
         time  : '18.00'
