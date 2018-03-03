@@ -29,7 +29,7 @@ timetable:
       - day   : 4&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия"  
- - description : "Неделя 2-я Великого поста, свт. Григория Паламы Все служащие."
+ - description : "."
    services    :
       - day   : 4&nbsp;вск.
         time  : '13.00'
