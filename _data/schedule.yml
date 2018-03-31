@@ -1,7 +1,6 @@
 period: Апрель 2018
 link: "https://docs.google.com/document/d/1blZh_n3E6xa9Wn0-DwhQhYf4ojz0Wp5fBlzeGLYbNWE/edit"
 timetable:
-
  - description : "Лазарева суббота Воскрешение праведного Лазаря Все служащие."
    services    :
       - day   : 30&nbsp;пт.
@@ -26,7 +25,8 @@ timetable:
       - day   : 2&nbsp;пн.
         time  : '8.00'
         title : "Часы.  Изобразительны. Литургия Преждеосвященных Даров"  
- - description : "Понедельник Страстной седмицы"       
+ - description : "Понедельник Страстной седмицы"
+   services    :
         time  : '8.00'
         title : "Часы.  Изобразительны. Вечерня"       
  - description : "Вторник Страстной седмицы"
