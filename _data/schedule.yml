@@ -14,86 +14,86 @@ timetable:
       - day   : 1&nbsp;вт.
         time  : '18.00'
         title : "Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 3&nbsp; ср.
+      - day   : 2&nbsp; ср.
         time  : '9.00'
         title : "Часы. Литургия"
  - description : "Прп. Феодора Трихины о. Александр"
    services    :
-      - day   : 3&nbsp;ср.
+      - day   : 2&nbsp;ср.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 4&nbsp; чт.
+      - day   : 3&nbsp; чт.
         time  : '8.00'
         title : "Часы. Литургия"       
  - description : "Сщмч. Ианнуария епископа и иже с ним. о. Александр"
    services    :
-      - day   : 4&nbsp;чт.
+      - day   : 3&nbsp;чт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 5&nbsp;пт.
+      - day   : 4&nbsp;пт.
         time  : '8.00'
         title : "Часы. Литургия"
  - description : "Прп. Феодора Сикеота о. Александр."
    services    :
-      - day   : 5&nbsp;пт.
+      - day   : 4&nbsp;пт.
         time  : '18.00'
         title : "Вечерня.Утреня. 1-й час."
-      - day   : 6&nbsp;сб.
+      - day   : 5&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
  - description : "Неделя 5-я по Пасхе, о самаряныне Иконы Божией Матери «Иверской». Вмч. Георгия Победоносца. Все служащие"
    services    :
-      - day   : 6&nbsp;сб.
+      - day   : 5&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 7&nbsp;вск.
+      - day   : 6&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия"
  - description : "Апостола и евангелиста Марка о. Игорь"
    services    :
-      - day   : 8&nbsp;пн.
+      - day   : 7&nbsp;пн.
         time  : '18.00'
         title : " Вечерня. Утреня с полиелеем. 1-й час."
-      - day   : 9&nbsp; вт.
+      - day   : 8&nbsp; вт.
         time  : '8.00'
         title : "Часы. Литургия"     
  - description : "Отдание праздника Преполовения Пятидесятницы. Поминовение православных воинов. о. Игорь."
    services    :
-      - day   : 9&nbsp;вт.
+      - day   : 8&nbsp;вт.
         time  : '18.00'
         title : "Утреня. 1-й час."
-      - day   : 10&nbsp; ср.
+      - day   : 9&nbsp; ср.
         time  : '9.00'
         title : "Часы.  Изобразительны. Литургия Преждеосвященных Даров"
  - description : "Апостола и священомученика Симеона. о. Игорь"
    services    :
-      - day   : 10&nbsp;ср.
+      - day   : 9&nbsp;ср.
         time  : '18.00'
         title : "Вечерня.Утреня. 1-й час."
-      - day   : 11&nbsp; чт.
+      - day   : 10&nbsp; чт.
         time  : '8.00'
         title : "Часы.  Литургия"       
  - description : "Апп. от 70-ти Иасона и Сосипатра, Керкиры девы и иных, с ними пострадавших о. Игорь"
    services    :
-      - day   : 5&nbsp;чт.
+      - day   : 10&nbsp;чт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 6&nbsp;пт.
+      - day   : 11&nbsp;пт.
         time  : '8.00'
         title : "Часы. Литургия"
  - description : "Девяти мучеников Кизических о. Игорь."
    services    :
-      - day   : 6&nbsp;пт.
+      - day   : 11&nbsp;пт.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
-      - day   : 7&nbsp;сб.
+      - day   : 12&nbsp;сб.
         time  : '9.00'
         title : "Часы.Литургия"
  - description : "Неделя 5-я по Пасхе, о слепом Все служащие ."
    services    :
-      - day   : 7&nbsp;сб.
+      - day   : 12&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-      - day   : 8&nbsp;вск.
+      - day   : 13&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия" 
