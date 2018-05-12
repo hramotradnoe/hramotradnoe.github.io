@@ -113,12 +113,12 @@ timetable:
       - day   : 27&nbsp;вск.
         time  : '9.30'
         title : "Часы.Литургия.Великая Вечерня" 
-- description : "ДЕНЬ СВЯТОГО ДУХА"
+ - description : "ДЕНЬ СВЯТОГО ДУХА"
    services    :
       - day   : 28&nbsp;пн.
         time  : '8.00'
         title : "Часы.Литургия."  
-- description : "Прп. Феодора Освященного. о. Игорь."
+ - description : "Прп. Феодора Освященного. о. Игорь."
    services    :
       - day   : 28&nbsp;пн.
         time  : '18.00'
