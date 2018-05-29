@@ -48,9 +48,9 @@ timetable:
         title : "Часы. Литургия" 
  - description : "НЕДЕЛЯ 1-Я ПО ПЯТИДЕСЯТНИЦЕ, ВСЕХ СВЯТЫХ Все служащие"
    services    :
-      - day   : 30&nbsp;сб.
+      - day   : 2&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение.."
-      - day   : 31&nbsp; вск.
+      - day   : 3&nbsp; вск.
         time  : '9.30'
         title : "Часы. Литургия" 
