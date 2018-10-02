@@ -102,7 +102,7 @@ timetable:
       - day   : 13&nbsp;сб.
         time  : '18.00'
         title : "Всенощное бдение."
-     - day    : 14&nbsp; вск.
+      - day    : 14&nbsp; вск.
         time  : '7.00'
         title : "Часы. Литургия"   
       - day   : 14&nbsp; вск.
