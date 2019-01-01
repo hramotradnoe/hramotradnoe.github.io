@@ -53,7 +53,7 @@ timetable:
    services    :
       - day   : 6&nbsp; вск.
         time  : '18.00'
-        title : "Всенощное бдение.
+        title : "Всенощное бдение."
       - day   :  6&nbsp; вск.
         time  : '23.30'
         title : "Часы. Литургия"     
