@@ -1,8 +1,8 @@
 period: Май 2019
 link: "https://docs.google.com/document/d/1BPJRaV4A3LzfvjWAxadMKSz6XAx2E-Pl9EQPfcbXWPM/edit?usp=sharing"
 timetable:
-- description  : "Среда Светлой Седмицы"
-  services     :
+ - description : "Среда Светлой Седмицы"
+   services    :
       - day   : 30&nbsp; вт.
         time  : '18.00'
         title : "Великая Вечерня.Утреня. 1-й час."
@@ -94,13 +94,13 @@ timetable:
       - day   : 12&nbsp; вск.
         time  : '9.30'
         title : "Часы. Литургия" 
-  - description : "Ап. Иакова Зеведеева. Свт. Игнатия Брянчанинова. о. Алексий."
-    services    :    
+ - description : "Ап. Иакова Зеведеева. Свт. Игнатия Брянчанинова. о. Алексий."
+   services    :    
      - day   : 13&nbsp; пн.
         time  : '8.00'
         title : "Часы. Литургия"
-  - description : "Пророка Иеремии Блгв. Тамары, царицы Грузинской. о. Алексий."
-    services    :
+ - description : "Пророка Иеремии Блгв. Тамары, царицы Грузинской. о. Алексий."
+   services    :
       - day   : 13&nbsp; пн.
         time  : '18.00'
         title : "Вечерня. Утреня. 1-й час."
