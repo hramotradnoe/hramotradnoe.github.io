@@ -12,7 +12,7 @@ title  : Духовенство
         <img src="{{member.photo}}"/>
         <figcaption>
           <h1>{{member.name}}</h1>
-          <p>{{member.description | markdownify}}</p>
+          {{member.description | markdownify}}
         </figcaption>
       </figure>
     </li>
