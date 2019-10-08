@@ -23,5 +23,14 @@
   photo       : /assets/images/clergy/alexander_chibisov.jpg
    
 - name        : Диакон Георгий Яралов
-  description : Клирик храма свт. Николая Мирликийского (в Отрадном)
+  description : Клирик храма свт. Николая Мирликийского (в Отрадном).
   photo       : /assets/images/clergy/georgiy_yaralov.jpg
+  
+- name        : Иерей Николай Бабкин
+  description : >
+                Клирик храма свт. Николая Мирликийского (в Отрадном).
+                Инстаграм: [@nickolay_bablin](https://instagram.com/nickolay_babkin).
+                Ответы на вопросы: [Не верю!](https://www.youtube.com/watch?v=oaqx4ceirog),
+                [Ответ священника](https://www.youtube.com/watch?v=AZtUHTdyibY).
+  photo       : /assets/images/clergy/nickolay_babkin.jpg
+  
