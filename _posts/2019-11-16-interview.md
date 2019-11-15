@@ -64,4 +64,4 @@ album   : yes
 У всего должна быть своя конкретная цель и свой потребитель.
 
 Беседовала Дарья Блинова. 
-ССылка на оригинал интервью: https://jesus-portal.ru/life/expert/khristianstvo-ne-drevnyaya-istoriya/
+Ссылка на оригинал интервью: https://jesus-portal.ru/life/expert/khristianstvo-ne-drevnyaya-istoriya/
