@@ -141,7 +141,7 @@ timetable:
         time  : '18.00'
         title : " Вечерня. Утреня. 1-й час."
       - day   : 21&nbsp; сб.
-        time  : '8.00'
+        time  : '9.00'
         title : "Часы. Литургия."    
       - day   : 21&nbsp; сб.
         time  : '16.30'
