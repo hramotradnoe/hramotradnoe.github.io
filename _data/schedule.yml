@@ -121,17 +121,13 @@ timetable:
         time  : '00.00'
         title : "Часы. Литургия" 
       - day   : 19&nbsp; вск.
-        time  : '9.30'
-        title : "Часы. Литургия"
- - description : "СВЕТЛОЕ ХРИСТОВО ВОСКРЕСЕНИЕ ПАСХА." 
-   services    :
-      - day   : 19&nbsp; вск.
         time  : '16.00'
         title : "Пасхальная Вечерня."
  - description : "Понедельник Светлой седмицы"
    services    :
       - day   : 20&nbsp; пн.
-        time  : '8.00'
+        time  : '9.00'
+        title : "Утреня.Часы.Литургия."
  - description : "Вторник Светлой седмицы. Иверской иконы Божией Матери"
    services    :
       - day   : 20&nbsp; пн.
