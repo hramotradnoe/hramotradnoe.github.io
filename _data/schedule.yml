@@ -1,13 +1,15 @@
 period: Апрель 2020
 link: "https://docs.google.com/document/d/1s37vpYtDbJM4FSW71uf0zuNeFQjGtAxC3B45s7vtqIw/edit?usp=sharing"
- - description : "Четверток Великого канона"
-      - day   : 1nbsp; ср.
+  - description : "Четверток Великого канона"
+    services    :
+      - day   : 1&nbsp; ср.
         time  : '18.00'
         title : "Утреня с чтением канона Андрея Критского. 1-й час." 
       - day   : 2&nbsp; чт.
         time  : '8.00'
         title : "Часы.  Изобразительны. Литургия Преждеосвященных Даров"
  - description : "Прп. Иакова исповедника"
+   services    :
       - day   : 3&nbsp; пт.
         time  : '8.00'
         title : "Часы.  Изобразительны. Литургия Преждеосвященных Даров"
