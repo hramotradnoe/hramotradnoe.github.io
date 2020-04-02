@@ -107,7 +107,7 @@ timetable:
       - day   : 17&nbsp; пт.
         time  : '14.00'
         title : "Вечерня с выносом Плащаницы"         
- - description : "ВЕЛИКАЯ СУББОТА. БЛАГОВЕЩЕНИЕ ПРЕСВЯТОЙ БОГОРОДИЦЫ"
+ - description : "ВЕЛИКАЯ СУББОТА "
    services    :
       - day   : 17&nbsp; пт.
         time  : '18.00'
