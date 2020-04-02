@@ -1,5 +1,5 @@
 period: Апрель 2020
-link: "https://docs.google.com/document/d/1s37vpYtDbJM4FSW71uf0zuNeFQjGtAxC3B45s7vtqIw/edit?usp=sharing"
+link: "https://docs.google.com/document/d/1dPEnXWt3N8KV7uitjuTPwD8DbUhA1ABpwB6s8i_CRYE/edit?usp=sharing"
 timetable:
  - description : "Четверток Великого канона"
    services    :
@@ -22,9 +22,6 @@ timetable:
       - day   : 4&nbsp; сб.
         time  : '9.00'
         title : "Часы Литургия "
-      - day   : 4&nbsp; сб.
-        time  : '16.30'
-        title : "Молебен в часовне вмч. Пантелеимона"   
  - description : "Неделя 5-я Великого поста, Прп. Марии Египетской"
    services    :
       - day   : 4&nbsp; сб.
@@ -66,7 +63,7 @@ timetable:
         title : "Всенощное бдение."   
       - day   : 12&nbsp; вск.
         time  : '9.30'
-        title : "Часы. Литургия"      
+        title : "Часы. Литургия"  
  - description : "Понедельник Страстной седмицы"
    services    :
       - day   : 13&nbsp; пн.
@@ -99,18 +96,18 @@ timetable:
  - description : "ВЕЛИКИЙ ПЯТОК. ВОСПОМИНАНИЕ СВЯТЫХ СПАСИТЕЛЬНЫХ СТРАСТЕЙ ГОСПОДА ИИСУСА ХРИСТА"
    services    :
       - day   : 16&nbsp; чт.
-        time  : '18.00'
+        time  : '17.00'
         title : "Утреня с чтением 12-ти страстных Евангелий."
       - day   : 17&nbsp; пт.
-        time  : '8.00'
+        time  : '9.00'
         title : "Царские часы "   
       - day   : 17&nbsp; пт.
-        time  : '14.00'
+        time  : '15.00'
         title : "Вечерня с выносом Плащаницы"         
  - description : "ВЕЛИКАЯ СУББОТА "
    services    :
       - day   : 17&nbsp; пт.
-        time  : '18.00'
+        time  : '17.00'
         title : "Утреня с чином погребения Плащаницы"
       - day   : 18&nbsp; сб.
         time  : '8.00'
@@ -129,7 +126,7 @@ timetable:
  - description : "СВЕТЛОЕ ХРИСТОВО ВОСКРЕСЕНИЕ ПАСХА." 
    services    :
       - day   : 19&nbsp; вск.
-        time  : '18.00'
+        time  : '16.00'
         title : "Пасхальная Вечерня."
  - description : "Понедельник Светлой седмицы"
    services    :
@@ -141,7 +138,7 @@ timetable:
         time  : '18.00'      
         title : "Великая вечерня. Утреня. 1-й час."   
       - day   : 21&nbsp; вт.
-        time  : '8.00'
+        time  : '9.00'
         title : "Часы. Литургия"           
  - description : "Среда Светлой седмицы"
    services    :
@@ -149,7 +146,7 @@ timetable:
         time  : '18.00'
         title : "Великая вечерня. Утреня.1-й час."
       - day   : 22&nbsp; ср.
-        time  : '8.00'
+        time  : '9.00'
         title : "Часы. Литургия"
  - description : "Четверг Светлой седмицы"
    services    :
@@ -157,7 +154,7 @@ timetable:
         time  : '18.00'
         title : "Великая вечерня.Утреня.1-й час."
       - day   : 23&nbsp; чт.
-        time  : '8.00'
+        time  : '9.00'
         title : "Часы.Литургия."     
  - description : "Пятница Светлой седмицы. Иконы Божией Матери «Живоносный источник»."
    services    :
@@ -165,7 +162,7 @@ timetable:
         time  : '18.00'
         title : "Великая вечерня.  Утреня. 1-й час."
       - day   : 24&nbsp; пт.
-        time  : '8.00'
+        time  : '9.00'
         title : "Часы.  Литургия"   
  - description : "Суббота Светлой седмицы."
    services    :
@@ -174,17 +171,14 @@ timetable:
         title : "Великая вечерня. Утреня. 1-й час"
       - day   : 25&nbsp; сб.
         time  : '9.00'
-        title : "Часы. Литургия"
-      - day   : 25&nbsp; сб.
-        time  : '16.30'
-        title : "Молебен в часовне вмч. Пантелеимона"  
+        title : "Часы. Литургия" 
  - description : "Неделя 2-я по Пасхе, Апостола Фомы. Антипасха."
    services    :
       - day   : 25&nbsp; сб.
         time  : '18.00'
         title : "Всенощное бдение"  
       - day   : 26&nbsp; вск.
-        time  : '9.00'
+        time  : '9.30'
         title : "Часы. Литургия"  
  - description : "Радоница. Поминовение усопших"
    services    :
@@ -209,4 +203,5 @@ timetable:
         title : "Вечерня. Утреня с полиелеем.1-й час."   
       - day   : 30&nbsp; чт.
         time  : '8.00'
-        title : "Часы.  Литургия"          
+        title : "Часы.  Литургия"     
+      
