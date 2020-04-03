@@ -64,12 +64,12 @@ timetable:
       - day   : 12&nbsp; вск.
         time  : '9.30'
         title : "Часы. Литургия"  
- - description : !!(red)"Понедельник Страстной седмицы"!!
+ - description : "Понедельник Страстной седмицы"
    services    :
       - day   : 13&nbsp; пн.
         time  : '8.00'
         title : "Часы.  Изобразительны. Литургия Преждеосвященных Даров."
- - description : !!(red)"Вторник  Страстной седмицы"!!
+ - description : "Вторник  Страстной седмицы"
    services    :
       - day   : 13&nbsp; пн.
         time  : '18.00'
