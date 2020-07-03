@@ -1,30 +1,10 @@
 - name        : Иеромонах Алексий (Черняев)
   description : И.о. благочинного храма свт. Николая Мирликийского (в Отрадном)
-  photo       : /assets/images/clergy/alexiy_chernyaev.jpg
-  
-- name        : Архимандрит Филипп (Симонов)
-  description : Клирик храма свт. Николая Мирликийского (в Отрадном)
-  photo       : /assets/images/clergy/philipp_simonov.jpg
-  
-- name        : Протоиерей Сергий Попов
-  description : Клирик храма свт. Николая Мирликийского (в Отрадном)
-  photo       : /assets/images/clergy/sergiy_popov.jpg
-  
-- name        : Протоиерей Дмитрий Рожков
-  description : Клирик храма свт. Николая Мирликийского (в Отрадном)
-  photo       : /assets/images/clergy/dmitriy_rozhkov.jpg  
-  
-- name        : Иерей Геннадий Гуреев
-  description : Клирик храма свт. Николая Мирликийского (в Отрадном)
-  photo       : /assets/images/clergy/gennadiy_gureev.jpg
+  photo       : /assets/images/clergy/alexiy_chernyaev.jpg 
   
 - name        : Иерей Александр Чибисов
   description : Клирик храма свт. Николая Мирликийского (в Отрадном)
   photo       : /assets/images/clergy/alexander_chibisov.jpg
-   
-- name        : Диакон Георгий Яралов
-  description : Клирик храма свт. Николая Мирликийского (в Отрадном).
-  photo       : /assets/images/clergy/georgiy_yaralov.jpg
   
 - name        : Иерей Николай Бабкин
   description : >
@@ -33,4 +13,10 @@
                 Ответы на вопросы: [Не&nbsp;верю](https://www.youtube.com/watch?v=oaqx4ceirog),
                 [Ответ&nbsp;священника](https://www.youtube.com/watch?v=AZtUHTdyibY)
   photo       : /assets/images/clergy/nickolay_babkin.jpg
+   
+- name        : Диакон Георгий Яралов
+  description : Клирик храма свт. Николая Мирликийского (в Отрадном).
+  photo       : /assets/images/clergy/georgiy_yaralov.jpg
+  
+
   
