@@ -163,13 +163,14 @@ timetable:
       - day   : 27&nbsp; вск.
         time  : '7.00'
         title : "Часы. Литургия."  
-     - day   : 27&nbsp; вск.
+      - day   : 27&nbsp; вск.
         time  : '9.30'
         title : "Часы. Литургия." 
-- description : "Попразднство Воздвижения Креста. Вмч. Никиты"
+ - description : "Попразднство Воздвижения Креста. Вмч. Никиты"
    services    :
       - day   : 28&nbsp; пн.
         time  : '8.00'
+        title : "Часы. Литургия"  
  - description : "Вмц. Евфимии всехвальной"
    services    :
       - day   : 28&nbsp; пн.
