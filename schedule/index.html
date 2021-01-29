@@ -4,10 +4,73 @@ title  : Расписание
 ---
 <section id="schedule">
 <h1>{{site.data.schedule.period}}</h1>
-<img alt="" src="http://hramotradnoe.ru/r1.png">
-<img alt="" src="http://hramotradnoe.ru/r2.png">
-<img alt="" src="http://hramotradnoe.ru/r3.png">
-<img alt="" src="http://hramotradnoe.ru/r4.png">
+<p>Расписание богослужений в формате <a href="{{site.data.schedule.link}}">doc</a>.</p>
+<table>
+{% for row in site.data.schedule.timetable %}
+{% if row.services == empty %}
+  <tr>
+    <td>-</td>
+    <td>{{row.description}}</td>
+    <td>Нет данных</td>
+    <td>-</td>
+  </tr>
+{% else %}
+{% case row.services.size %}
+{% when 1 %}
+  <tr>
+    <td>{{row.services[0].day}}</td>
+    <td>{{row.description}}</td>
+    <td>{{row.services[0].title}}</td>
+    <td>{{row.services[0].time}}</td>
+  </tr>
+{% when 2 %}
+  <tr>
+    <td>{{row.services[0].day}}</td>
+    <td rowspan="2">{{row.description}}</td>
+    <td>{{row.services[0].title}}</td>
+    <td>{{row.services[0].time}}</td>
+  </tr>
+  <tr>
+    <td>{{row.services[1].day}}</td>
+    <td>{{row.services[1].title}}</td>
+    <td>{{row.services[1].time}}</td>
+  </tr>
+{% when 3 %}
+  <tr>
+{% if row.services[0].day == row.services[1].day %}
+    <td rowspan="2">{{row.services[0].day}}</td>
+{% else %}
+    <td>{{row.services[0].day}}</td>
+{% endif %}
+    <td rowspan="3">{{row.description}}</td>
+    <td>{{row.services[0].title}}</td>
+    <td>{{row.services[0].time}}</td>
+  </tr>
+  <tr>
+{% if row.services[0].day == row.services[1].day %}
+{% elsif row.services[1].day == row.services[2].day %}
+    <td rowspan="2">{{row.services[1].day}}</td>
+{% else %}
+    <td>{{row.services[1].day}}</td>
+{% endif %}
+    <td>{{row.services[1].title}}</td>
+    <td>{{row.services[1].time}}</td>
+  </tr>
+  <tr>
+{% if row.services[1].day == row.services[2].day %}
+{% else %}
+    <td>{{row.services[2].day}}</td>
+{% endif %}
+    <td>{{row.services[2].title}}</td>
+    <td>{{row.services[2].time}}</td>
+  </tr>
+{% else %}
+  <tr>
+    <td>-</td>
+    <td>{{row.description}}</td>
+    <td>Ошибка</td>
+    <td>-</td>
+  </tr>
 {% endcase %}
 {% endif %}
 {% endfor %}
